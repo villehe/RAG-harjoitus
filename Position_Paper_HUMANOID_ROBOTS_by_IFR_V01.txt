@@ -1,0 +1,1368 @@
+published by
+International Federation of Robotics
+Frankfurt, Germany
+July 2025
+
+POSITION PAPER
+
+Humanoid Robots
+
+Picture Source: Neura Robotics
+
+VISION AND REALITY
+
+HUMANOID ROBOTS
+VISION AND REALITY
+
+CONTENTS
+
+EXECUTIVE SUMMARY & KEY FINDINGS ................................................... 3
+IN BRIEF .......................................................................................................... 4
+• What is a humanoid robot?.................................................................. 4
+• Humanoid robots for industrial use ...................................................... 4
+• Humanoid robots for service use ......................................................... 4
+DEEP DIVE....................................................................................................... 5
+• Drivers of humanoid development ....................................................... 5
+• Main industries and applications ......................................................... 5
+• Technological Trends .......................................................................... 6
+• Tradeoffs and limitations of humanoids ............................................... 7
+• Humanoid adoption by region ............................................................. 7
+• Ethical and regulatory considerations ................................................. 9
+• Economic view..................................................................................... 9
+• Outlook ................................................................................................ 9
+APPENDIX ..................................................................................................... 10
+• References ........................................................................................ 10
+• Contact .............................................................................................. 10
+• Lists of Suppliers (status: 04/2025) ................................................... 11
+
+2
+
+Position Paper | July 2025
+
+HUMANOID ROBOTS
+VISION AND REALITY
+
+EXECUTIVE SUMMARY & KEY FINDINGS
+Hype about humanoid robots
+People's interest has been fueled by futuristic
+scenarios involving humanoid robots in homes,
+businesses, and public spaces. This fascination
+has a cultural backdrop, as humanoids have
+long been a staple of science fiction, particularly
+in film. People are intrigued by the prospect of
+these fictional depictions becoming reality.
+Recent videos on social media showcasing the
+potential of AI-powered humanoids have further
+boosted this interest, suggesting an impending
+revolution in robotics.
+Robots for human-centric environments
+The objective behind constructing humanoid
+robots is to tackle tasks in human-centric
+environments and push the boundaries of
+robotics in both research and practical
+applications. The vision is to create a generalpurpose robot that can perform not just one
+task, but many. The demand for a quick,
+universal helper to maintain manufacturing and
+services is evident given that most developed
+economies are experiencing persistent labor
+shortages and impending demographic shifts.
+To the extent that our environments are
+optimized for the human body, a generalpurpose robot based on human motion
+mechanics and form factor could have an
+advantage. As technology evolves, these
+robots are expected to be increasingly used in
+fields ranging from industrial use and service
+use.
+
+pave the way for new application scenarios of
+smart manufacturing.
+(Please find more details in DEEP DIVE “Technological
+Trends”).
+
+US Tech and government invest
+The idea of a revolution in robotics is reinforced
+by major tech companies such as NVIDIA,
+Tesla and Amazon, as well as private investors,
+announcing significant funding for humanoid
+robots. The support of a growing number of
+start-ups is also contributing to the current
+hype. Additionally, there is significant interest in
+their use for military and security purposes,
+resulting in substantial funding from DARPA
+and the US Department of Defense.
+China promotes humanoid robots
+At the same time, China - the world´s largest
+market for industrial robots - published detailed
+goals for the country’s ambitions to massproduce humanoids. China’s Ministry of
+Industry and Information Technology (MIIT)
+predicts humanoids are likely to become
+another disruptive technology, similar to
+computers or smartphones, that could transform the way we produce goods and the way
+humans live. China's initiative to promote
+humanoid robots as a cutting-edge technology
+is an important next step in integrating robotics
+with other emerging technologies.
+(Please find more in DEEP DIVE - Humanoid adoption by
+region)
+
+(Please find definitions in IN BRIEF).
+
+Trends driving development
+Significant technological breakthroughs have
+been made in recent years, including advances
+in AI, machine learning and improved core
+components, which have enhanced the
+capabilities of humanoids. In particular,
+generative AI has led to new methods by which
+humanoids acquire their capabilities. They can
+learn from demonstration and even figure out
+tasks independently. This could also transform
+the way traditional robots are programmed and
+
+Position Paper | July 2025
+
+Figure 1: Gaps in labor supply are being filled by
+humanoids. Picture Source: iStock.com/Kinwun
+
+3
+
+HUMANOID ROBOTS
+VISION AND REALITY
+
+IN BRIEF
+What is a humanoid robot?
+Intro
+A humanoid robot is a robot that resembles
+the human body in shape. These robots are
+often designed for functional purposes. They
+usually have a torso, a head, two arms and two
+legs. Some only have the upper part of the
+body, and some are wheeled. As with any
+robot, some degree of autonomy is required.
+Typically, mobility is a crucial element in
+humanoid robots.
+Definition
+IFR proposes a definition of a humanoid robot
+that shall serve as a unified globally accepted
+discussion and the basis for standardization
+work:
+A humanoid robot is a robot with a human-like
+aesthetic appearance (typically two arms with
+hands, two legs, torso and head) capable of
+performing tasks in an environment designed
+for humans without the need to adapt it.
+Their task performance is enhanced by having
+human-like sensing abilities such as seeing,
+
+hearing, touch sensing,
+humans and environments.
+
+interacting
+
+with
+
+ISO 8373:2021 defines a humanoid robot as a
+robot with body, head and limbs, looking and
+moving like a human.
+
+Humanoid robots for industrial use
+Humanoid robots are evolving from research
+prototypes to practical machines that support
+industrial tasks. They are seen as a promising
+technology where flexibility is required, typically
+in environments designed for humans.
+Pioneered by the automotive industry,
+applications in warehousing and manufacturing
+are coming into focus worldwide.
+
+Humanoid robots for service use
+Unlike their industrial counterparts, humanoid
+robots for service-use often assume roles in
+hospitality, education, and public service by
+mimicking human expressions, gestures, and
+even emotions.
+Many early applications in Asian countries e.g.
+China, South Korea and Japan currently target
+entertainment, hospitality and personal care
+purposes.
+
+Figure 2: Humanoids designed to support industrial tasks. Picture Source: iStock.com/Thinkhubstudio
+4
+
+Position Paper | July 2025
+
+HUMANOID ROBOTS
+VISION AND REALITY
+
+DEEP DIVE
+Drivers of humanoid development
+The field of humanoid robotics is expanding
+rapidly. Both researchers and companies are
+exploring improved human–robot interaction
+techniques, advanced sensor integration and
+adaptive AI systems that enable robots to learn
+and evolve within complex workflows. These
+advances are paving the way for new roles in a
+variety of customer industries and applications,
+many of which are already affected by a
+shortage of human labor. M
+
+like appearance aim to bridge the gap between
+machine efficiency and the warmth of human
+interaction,
+transforming
+the
+customer
+experience in these sectors. Early trials in
+automated stores have seen humanoid robots
+managing inventory, processing payments, and
+providing product information. In the hospitality
+sector they are designed to perform tasks such
+as greeting guests, supporting the concierge,
+providing room service and assisting with
+wayfinding.
+
+Main industries and applications
+Manufacturers, logistics operators, and service
+providers are emerging as the primary
+customers for humanoid robots:
+In the automotive industry some companies
+are running commercial pilot projects with
+humanoids to test the readiness for work.
+Prototypes are being used for kitting (gather
+components for assembly), tending machines,
+and monitoring production processes.
+Closely
+aligned
+are
+logistics
+and
+warehousing operations. The design of
+humanoid robots means they can navigate
+factory floors and warehouses originally built for
+human workers. This might in particular support
+brownfield automation in warehouses, reducing
+the need for custom-built robotic systems and
+specialized infrastructure.
+With ongoing pilot projects in manufacturing
+and logistics, both start-up and established
+robotics
+companies
+find
+that
+these
+environments represent fertile ground for
+extending the capabilities of humanoid robots.
+Future applications will range from operating in
+complex machinery layouts in factories to tight
+warehouse corridors. They will free up human
+workers by taking over simple assembly tasks,
+manual quality testing and handling hazardous
+materials, as well as working in areas with poor
+sanitary conditions.
+In addition to the industrial sector, customerfacing businesses such as retail and
+hospitality are beginning to experiment with
+humanoid robots as interactive service agents.
+Their conversational capabilities and humanPosition Paper | July 2025
+
+Figure 3: Fourier GR-1 being used in Shanghai
+International Medical Center for Rehabilitation.
+Picture Source: Fourier Intelligence
+
+In healthcare, humanoid robots are being
+designed to support overburdened medical
+staff by handling routine tasks such as
+transporting equipment, lab assistance and
+even offering basic patient care. Several
+hospitals across Europe and Asia are already
+testing units equipped to perform physical
+therapy exercises and monitor vital signs,
+potentially reducing the risk of caregiver injury
+and alleviating the strain on aging workforces.
+Humanoid robots are set to lend a helping hand
+in people's homes in the future. Experts
+foresee them undertaking tasks such as
+vacuuming, dusting and mopping floors or other
+domestic routines like tidying up. Alongside
+these physical tasks, some robots are being
+designed to act as digital companions, blending
+practical support with social interaction. Like
+smartphones and other consumer devices,
+these applications have the potential for mass
+adoption. Social and cultural factors, including
+how comfortable people feel with humanoids,
+will influence their adoption in everyday life.
+
+5
+
+HUMANOID ROBOTS
+VISION AND REALITY
+
+Figure 4: Humanoid production line. Picture Source: Neura Robotics
+
+World regions with cultures that tend to
+embrace robotics will lead the race to a more
+widespread adoption. However, this is not
+expected to happen overnight, but rather within
+the next 20 to 30 years.
+
+human–robot interaction. Improved SLAM
+technologies 1 and LIDAR systems 2 as well
+as cameras and vision systems enable
+humanoids to navigate independently in
+complex environments, enhancing their
+usefulness in real-world applications.
+
+Technological Trends
+
+Advanced AI and machine learning such as
+Vision Language Action Models (VLAMs) are
+enabling humanoids to learn from data, improve
+decision-making,
+and
+adapt
+to
+new
+environments, making humanoids more
+autonomous and capable. Lack of training data
+can be tackled by virtual learning environments
+with digital twins in simulation. Imitation
+learning enables humanoids to learn directly
+from observing humans. Advances in natural
+language processing and emotion recognition
+are making humanoid robots better at
+understanding and responding to human
+emotions, improving their utility in service roles.
+
+As technological advances continue and
+operational confidence grows, the vision of a
+future in which humans and intelligent
+machines collaborate might become a reality.
+
+The use of lighter, more durable materials and
+miniaturized components is enabling the
+creation of more agile, realistic humanoid
+robots. Adoption of tactile sensors and force
+torque sensors means that grippers and
+hands can now be more precise, mimicking
+human touch and dexterity. Thanks to new
+developments in dynamic balancing, joint
+flexibility and motor control, humanoids can
+Edge computing and processors specifically
+now perform complex movements such as
+suited to complex inputs and AI algorithms
+running, jumping and navigating uneven
+reduce the latency for critical tasks, improving
+terrain. Safety enabling features such as force
+responsiveness and autonomy. The integration
+feedback and compliance control regulate
+of humanoids with cloud computing allows for
+movement to prevent harm during direct
+
+1 SLAM (Simultaneous Localization and Mapping) a
+
+technology used by robots to create a map of an
+unknown environment while simultaneously
+tracking their own position within that map.
+
+6
+
+2 LIDAR (Light Detection and Ranging) is a remote
+
+sensing method that uses laser light to measure
+distances to an object or surface.
+
+Position Paper | July 2025
+
+HUMANOID ROBOTS
+VISION AND REALITY
+
+real-time data processing, remote control, and
+coordination
+between
+multiple
+robots,
+enhancing their functionality and scalability in
+industrial and service applications. Enhanced
+sensors for vision, touch, and hearing, coupled
+with more efficient actuators, are allowing
+humanoids to interact with their environment
+more naturally and precisely.
+New developments in battery technology and
+energy management are extending the
+operational life of humanoid robots, making
+them more practical for long-term use.
+
+operation with one hour of fast charging, or a
+runtime of twenty hours.
+Finally, while some humanoid robots have
+mastered mobility and agile movement, and
+others can handle cognitive and intellectual
+challenges, none can do both yet. Humanoids
+so far have not mastered many basic humanlike capabilities, serving as general-purpose
+tools. Dedicated-purpose humanoids are much
+closer to deployment.
+
+Tradeoffs and limitations of humanoids
+The comparison of humanoid robots with
+traditional industrial robots highlights important
+aspects of their limitations. Critics point to the
+'form follows function' rule: the human body
+may not be suited to certain tasks. Traditional
+industrial robots tend to have fewer joints
+tailored to a specific task, such as welding or
+assembly. This results in simpler control
+schemes that are faster and more reliable than
+humanoid robots. As a result, industrial robots
+are likely to remain the backbone of highspeed,
+precision-driven
+manufacturing
+environments. In industrial production settings,
+tasks are repetitive and demand millimeterlevel precision at high speeds. Industrial robots
+excel here—they perform highly specialized
+movements quickly and consistently. When the
+job calls for extreme specialization, dedicated
+industrial robots generally outperform their
+humanoid counterparts.
+Humanoid robots offer a more general
+approach. They combine mobility with humanlike interaction, making them suitable for
+service tasks. In such applications, humanoids
+may be more acceptable than traditional
+machines. This advantage can also be a risk:
+Their human-like appearance and behavior can
+create fear in people, leading to a general
+rejection of robotic technologies, known as the
+uncanny valley.
+Compared to the wired, high-power solutions
+available for many traditional industrial robots,
+battery power is a fundamental challenge for
+humanoid robots. The battery life is typically
+only one hour today. It would need to be
+increased to at least four to five hours of
+
+Position Paper | July 2025
+
+Figure 5: Humanoid with human-like interaction.
+Picture Source: iStock.com/Thinkhubstudio
+
+Humanoid adoption by region
+The approach to humanoid robots varies
+significantly across regions like the Americas,
+Asia and Europe, reflecting differences in
+cultural attitudes, technological priorities, and
+economic goals.
+In the United States, major tech companies
+like Google, Amazon and Tesla are heavily
+developing advanced AI and robotics
+technologies. Besides military funding, a lot of
+private investments support this development
+and result in a large number of start-ups
+developing humanoid robots. There is a strong
+interest in using humanoids in logistics,
+healthcare and manufacturing. Humanoid
+robots are seen as tools for enhancing
+productivity and efficiency rather than as social
+companions. The focus is more on practical
+applications and less on integrating robots into
+daily social life.
+China put humanoids in the center of their
+national strategy. The government wants to
+showcase its competences and global
+competitiveness in this field of technology.
+There is a strong emphasis on using
+humanoids in the service sectors, such as
+7
+
+HUMANOID ROBOTS
+VISION AND REALITY
+
+Figure 6: Humanoids perform a wide range of tasks in various environments. Picture Source: PAL Robotics
+
+customer service. The use in manufacturing to
+automate production lines and reduce reliance
+on human labor seems only a second step. One
+key element of the Chinese strategy is to
+establish a supply chain for key components
+that is scalable.
+Japan has been a leader in the development of
+humanoid robots since before other countries
+entered the field, with Honda's Asimo being an
+early example. Robots are regarded as
+companions rather than mere tools. Humanoid
+robots such as Pepper and Palro are designed
+primarily as social robots and are used in
+educational settings, commercial stores and
+elderly care facilities. This reflects the needs of
+Japan's ageing society. The focus is on
+creating robots that can live harmoniously with
+humans and are accepted as part of society.
+Leading companies such as Kawasaki are
+developing humanoid robots as research
+platforms.
+Europe places a strong emphasis on the
+ethical implications of robotics and AI. Europe
+has a significant focus on collaborative robots
+that work alongside humans in industrial
+settings. The focus is on enhancing safety,
+efficiency, and human capabilities, rather than
+8
+
+on replacing human workers. The focus is on
+human-centric design and the social and
+societal impact of robots. European businesses
+are more cautious about the use of humanoids
+to meet the automation needs of the
+manufacturing and service sectors in the short
+to medium term.
+All regions recognize the importance of AI in
+advancing humanoid robots, making robots
+more autonomous, intelligent, and capable of
+interacting naturally with humans. There is a
+common interest in using humanoid robots to
+enhance productivity in manufacturing,
+logistics, and service industries, although the
+extent and nature of this application vary by
+region. Both Japan and Europe are particularly
+focused on using humanoid robots to address
+demographic challenges like providing care for
+aging populations, while China also sees them
+as a means to maintain economic growth
+amidst a shrinking workforce.
+(Please find more in World Robotics R&D Programs 2025:
+https://ifr.org/ifr-press-releases/news/robotics-researchgoverment-programs-asia-europe-and-america-2025)
+
+Position Paper | July 2025
+
+HUMANOID ROBOTS
+VISION AND REALITY
+
+Figure 7: Estun Codroid 02 showcased at automatica exhibition. Picture Source: Messe Munich
+
+Ethical and regulatory considerations
+A humanoid robot is a tool like any other type of
+robot, be it for the use of industrial or service
+tasks. Robots must assist humans, not the
+other way around. The European robotics
+industry therefore advocates a “human-incommand approach” for the design of good,
+safe workplaces. In the EU, humanoids using
+forms of AI also will fall under the regime of the
+EU AI Act.
+Safety
+As with any other piece of machinery,
+humanoid robots must be safe. The
+International Organization for Standardization
+(ISO) has set up a committee to address this
+issue. Its experts are working on safety
+requirements for industrial mobile robots with
+actively controlled stability, including those with
+legs, wheels or other means of locomotion. The
+very nature of an upright design presents
+challenges not faced by traditional static or
+robots on 4 wheels. Unlike robots with a low
+center of gravity or broad bases, humanoids
+must continuously maintain their balance. This
+significantly increases the risk of falling and
+requires complex recovery mechanisms to
+ensure safety, even in unpredictable
+Position Paper | July 2025
+
+environments and when the power supply is
+switched off.
+
+Economic view
+From an economic point of view, the high cost
+of materials and components, as well as the
+complexity of the design and programming,
+makes widespread adoption difficult. This
+renders them unaffordable for cost-effective
+operations. Within the next 5 to 10 years, we
+can expect it to be more widely adopted in
+industry. Economies of scale need to be
+realized to substantially lower their unit costs
+and make them economically viable.
+
+Outlook
+Humanoids are not expected to replace the
+types of robots currently on the market. Instead,
+they will complement and expand upon existing
+technology, such as industrial robots and
+AMRs, while also introducing new ways of
+programming robots. As research and pilot
+programs continue to push the boundaries of
+what is possible, new control algorithms, sensor
+technology and energy management are
+expected to unlock sophisticated capabilities.
+Thanks to their human-like dexterity and
+adaptability, they are well-placed to automate
+9
+
+HUMANOID ROBOTS
+VISION AND REALITY
+
+complex tasks that current robots struggle with
+using traditional programming methods. Mass
+adoption as universal household helpers will
+
+not happen within the near- and medium-term
+future.
+
+APPENDIX
+References
+• Cover picture: iStock by Getty Images
+• ISO 8373:2021
+ISO 8373:2021 - Robotics — Vocabulary
+ISO 10218-1:2011(en) - Robots and
+robotic devices — Safety requirements for
+industrial robots — Part 1: Robots
+https://www.iso.org/obp/ui/en/#iso:std:iso:
+10218:-1:ed-2:v1:en
+
+Contact
+Dr. Susanne Bieller
+General Secretary
+IFR International Federation of Robotics
+Lyoner Str. 18,
+60528 Frankfurt, Germany
+
+• ISO 10218-2:2011(en) - Robots and
+robotic devices — Safety requirements for
+industrial robots — Part 2: Robot systems
+and integration
+https://www.iso.org/obp/ui/en/#iso:std:iso:
+10218:-2:ed-1:v1:en
+• World Robotics R&D Programs 2025
+Robotics Research: How Asia, Europe
+and America Invest - International
+Federation of Robotics
+
+Editorial
+Carsten Heer
+Press Officer
+econNEWSnetwork
+Phone: +49 40 82244284
+E-Mail: press@ifr.org
+www.econ-news.de/en/
+
+Phone: +49 69 6603-1502
+E-Mail: secretariat@ifr.org
+
+10
+
+Position Paper | July 2025
+
+HUMANOID ROBOTS
+VISION AND REALITY
+
+Lists of Suppliers (status: 04/2025)
+Legged
+Company
+
+Country
+
+Region
+
+Website
+
+Sanctuary AI
+
+Canada
+
+Americas
+
+https://sanctuary.ai/
+
+Agility
+
+USA
+
+Americas
+
+https://agilityrobotics.com/
+
+Apptronik
+
+USA
+
+Americas
+
+https://apptronik.com/
+
+Boston Dynamics
+
+USA
+
+Americas
+
+https://bostondynamics.com/
+
+Figure
+
+USA
+
+Americas
+
+https://www.figure.ai/
+
+Laser Robotics
+
+USA
+
+Americas
+
+https://laser-robotics.com/
+
+Tesla
+
+USA
+
+Americas
+
+https://www.tesla.com/AI
+
+Westwood Robotics
+
+USA
+
+Americas
+
+https://www.westwoodrobotics.io/
+
+Agibot
+
+China
+
+Asia
+
+https://www.agibot.com/
+
+China
+
+Asia
+
+China
+
+Asia
+
+https://www.boosterobotics.com/
+
+Deep Robotics
+
+China
+
+Asia
+
+https://www.deeprobotics.cn/en
+
+Dreame
+
+China
+
+Asia
+
+https://global.dreametech.com/
+
+Exrobots (Dalian TIACE Technology
+
+China
+
+Asia
+
+https://www.exrobots.net
+
+FDRobot (Sichuan Tianlian Robot Co)
+
+China
+
+Asia
+
+https://www.fdrobot.com/
+
+iFLYTEK
+
+China
+
+Asia
+
+https://www.iflytek.com/
+
+Kepler Exploration Robot Co
+
+China
+
+Asia
+
+https://www.gotokepler.com/home
+
+Leju (Shenzhen) Robotics
+
+China
+
+Asia
+
+https://www.lejurobot.com/
+
+LimX
+
+China
+
+Asia
+
+https://www.limxdynamics.com/
+
+Robotera (Beijing Xingdong Era
+
+China
+
+Asia
+
+https://www.robotera.com/
+
+Ti5 Robot
+
+China
+
+Asia
+
+https://www.ti5robot.com/
+
+UBTech Robot
+
+China
+
+Asia
+
+https://www.ubtrobot.com/
+
+Unitree Robotics
+
+China
+
+Asia
+
+https://www.unitree.com/
+
+Unix AI (Shanghai Euric Intelligent
+
+China
+
+Asia
+
+Vizum (Beijing Weijing Intelligent
+
+China
+
+Asia
+
+www.vizumtech.com/
+
+Xiaomi
+
+China
+
+Asia
+
+https://www.mi.com/global/discover/article?id=2754
+
+XPeng
+
+China
+
+Asia
+
+https://www.xpeng.com/
+
+Zhejiang Humanoid Robot Innovation
+Center
+
+China
+
+Asia
+
+https://en.zhejianglab.com
+
+Hanson Robotics
+
+China
+
+Asia
+
+https://www.hansonrobotics.com/
+
+Sirena Technologies
+
+India
+
+Asia
+
+https://sirenatech.com/
+
+Surena
+
+Iran
+
+Asia
+
+https://surenahumanoid.com/
+
+Fujisoft
+
+Japan
+
+Asia
+
+https://www.fsi.co.jp/e/
+
+Kawada
+
+Japan
+
+Asia
+
+https://www.kawadarobot.co.jp/
+
+Kawasaki
+
+Japan
+
+Asia
+
+https://kawasakirobotics.com/
+
+Beijing Humanoid Robot Innovation
+Center
+Booster Robotics (Beijing Accelerated
+Evolution Technology)
+
+Developoment Co.)
+
+Technology)
+
+(HangZhou YuShu TECHNOLOGY CO)
+Technology)
+Technology)
+
+Position Paper | July 2025
+
+11
+
+HUMANOID ROBOTS
+VISION AND REALITY
+
+Toyota
+
+Japan
+
+Asia
+
+https://global.toyota/en/newsroom/corporate/30609642.html
+
+Rainbow Robotics
+
+Korea
+
+Asia
+
+https://www.rainbow-robotics.com/
+
+RobRos
+
+Korea
+
+Asia
+
+https://robros.co.kr/
+
+Fourier Intelligence
+
+Singapore
+
+Asia
+
+https://fourierintelligence.com/
+
+United Robotics Group
+
+France
+
+Europe
+
+https://unitedrobotics.group/
+
+Neura Robotics
+
+Germany
+
+Europe
+
+https://neura-robotics.com/
+
+Mentee Robotics
+
+Israel
+
+Europe
+
+https://www.menteebot.com/
+
+1X
+
+Norway
+
+Europe
+
+https://www.1x.tech/
+
+PAL Robotics
+
+Spain
+
+Europe
+
+https://pal-robotics.com/
+
+SKL ROBOTICS LTD (The Humanoid)
+
+UK
+
+Europe
+
+https://thehumanoid.ai/
+
+Engineered Arts
+
+UK
+
+Europe
+
+https://engineeredarts.co.uk/
+
+Company
+
+Country
+
+Region
+
+Website
+
+Agibot
+Alpha Robotics (Suzhou Pangolin Robot
+
+China
+
+Asia
+
+https://www.agibot.com/
+
+Co)
+
+China
+
+Asia
+
+https://www.alpharobotics.com.cn/
+
+Dataa Robotics
+Elephant Robotics (Shenzhen Elephant
+
+China
+
+Asia
+
+https://www.dataarobotics.com/
+
+China
+
+Asia
+
+https://www.elephantrobotics.com/en/
+
+Intelligence Technology Co)
+
+China
+
+Asia
+
+https://galaxea.ai/
+
+Galbot
+PaXini Technology (Paxini Perception
+
+China
+
+Asia
+
+https://www.galbot.com/
+
+Technology)
+
+China
+
+Asia
+
+https://paxini.com/index
+
+Realman Robotics
+Robotera (Beijing Xingdong Era
+
+China
+
+Asia
+
+https://www.realman-robotics.com/
+
+Technology)
+
+China
+
+Asia
+
+https://www.robotera.com/
+
+Stardust Intelligence
+
+China
+
+Asia
+
+https://astribot.com/
+
+Ti5 Robot
+Unix AI (Shanghai Euric Intelligent
+
+China
+
+Asia
+
+https://www.ti5robot.com/
+
+Technology)
+
+China
+
+Asia
+
+None found
+
+Pudu Robotics
+
+China
+
+Asia
+
+https://www.pudurobotics.com/
+
+H-Bots Robotics
+
+India
+
+Asia
+
+website currently suspended
+
+Invento Robotics
+
+India
+
+Asia
+
+https://mitrarobot.com/
+
+Tokyo Robotics
+
+Japan
+
+Asia
+
+https://robotics.tokyo/
+
+Naver Labs
+
+Korea
+
+Asia
+
+https://www.naverlabs.com/en/ambidex
+
+Rainbow Robotics
+
+Korea
+
+Asia
+
+https://www.rainbow-robotics.com/
+
+Enchanted Tools
+
+France
+
+Europe
+
+https://enchanted.tools/
+
+United Robotics Group
+
+France
+
+Europe
+
+https://unitedrobotics.group/
+
+Unlimited Robotics
+
+Israel
+
+Europe
+
+https://www.unlimited-robotics.com/
+
+Oversonic
+
+Italy
+
+Europe
+
+https://oversonicrobotics.com/
+
+1X
+
+Norway
+
+Europe
+
+https://www.1x.tech/
+
+PAL Robotics
+
+Spain
+
+Europe
+
+https://pal-robotics.com/
+
+Wheeled
+
+Robot Technology)
+
+Galaxea (Xinghaitu (Suzhou) Artificial
+
+12
+
+Position Paper | July 2025
+
+HUMANOID ROBOTS
+VISION AND REALITY
+
+Upper-body only
+Company
+
+Country
+
+Region
+
+Website
+
+Richtech Robotics
+
+USA
+
+Americas
+
+https://www.richtechrobotics.com/
+
+Boardwalk Robotics
+
+USA
+
+Americas
+
+https://boardwalkrobotics.com/
+
+Elephant Robotics (Shenzhen Elephant
+
+China
+
+Asia
+
+https://www.elephantrobotics.com/en/
+
+iFLYTEK
+
+China
+
+Asia
+
+https://www.iflytek.com/
+
+Robotera (Beijing Xingdong Era
+
+China
+
+Asia
+
+https://www.robotera.com/
+
+Kawada
+
+Japan
+
+Asia
+
+https://www.kawadarobot.co.jp/
+
+Kawasaki
+
+Japan
+
+Asia
+
+https://kawasakirobotics.com/
+
+Yaskawa
+
+Japan
+
+Asia
+
+https://www.yaskawa-global.com/
+
+Macco Robotics
+
+Spain
+
+Europe
+
+https://maccorobotics.es/
+
+PAL Robotics
+
+Spain
+
+Europe
+
+https://pal-robotics.com/
+
+ABB
+
+Switzerland
+
+Europe
+
+https://global.abb/
+
+Engineered Arts
+
+UK
+
+Europe
+
+https://engineeredarts.co.uk/
+
+Robot Technology)
+
+Technology)
+
+Position Paper | July 2025
+
+13
+
+

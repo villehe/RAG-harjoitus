@@ -1,0 +1,1189 @@
+published by
+International Federation of Robotics
+Frankfurt, Germany
+October 2021
+
+INFORMATION PAPER
+
+Robots in Daily Life
+THE POSITIVE IMPACT OF ROBOTS ON
+WELLBEING
+
+Robots in Daily Life – the positive
+impact of robots on wellbeing
+
+Contents
+Executive Summary ....................................................................................... 3
+Introduction .................................................................................................... 3
+Improving health ............................................................................................ 4
+Improved health at work ............................................................................. 5
+Better patient care ...................................................................................... 6
+Robots improve efficiency of medicines and medical devices ................... 9
+More independence for the elderly ........................................................... 10
+Increased mobility for people with disabilities .......................................... 10
+Improving the quality and sustainability of food ........................................... 11
+Future directions .......................................................................................... 17
+Conclusion ................................................................................................... 17
+Case studies and videos ............................................................................. 17
+
+2
+
+Information Paper | October 2021
+
+Robots in Daily Life – the positive
+impact of robots on wellbeing
+
+Executive Summary
+Robots are improving our daily lives in an
+increasing variety of ways. This IFR paper
+focuses on how robots improve health
+outcomes, the quality and sustainability of
+food, the quality and availability of the
+products and services we receive, and the
+reduction of carbon emissions.
+Robots
+• Help improve health outcomes. They
+improve health at work by doing the heavy
+lifting and other unergonomic tasks in
+sectors such as manufacturing, logistics,
+retail and healthcare. They improve
+efficiency in the production of the
+medicines and medical devices, clean and
+disinfect hospitals, help nurses focus on
+patient care by fetching and carrying linens
+and medication, help the elderly live
+independently for longer, enable patients
+to recover faster - and better - from
+conditions such as stroke, and increase
+mobility for people with physical
+disabilities.
+• Improve the quality and sustainability of
+food by reducing pesticide use and energy
+consumption in farming as well as helping
+conserve water. Robots help us access
+fresher foods and support small farms to
+stay in business.
+
+• Increase the range and quality of products
+we buy by enabling manufacturers to
+produce a range of products (e.g.
+smartphones) in large quantities as well as
+highly customized products (e.g. shoes) in
+small numbers at competitive prices and to
+high quality standards.
+• Reduce the environmental impact of
+production by optimizing the production
+process and reducing carbon emissions in
+specific processes. Robots
+enable
+manufacturers in developed economies to
+produce closer to the customer at
+competitive prices, thereby minimizing
+energy consumption in the logistics chain.
+Robots reduce material waste and rejects.
+They are increasingly made with energysaving features, from lightweight materials
+to drive technologies.
+
+Introduction
+When we think of robots, we tend to imagine
+large, powerful machines hammering out
+metal parts or mounting car doors. Industrial
+robots have indeed been used for over 50
+years in manufacturing for these and other
+tasks aimed at improving productivity.
+However, the last ten years have seen a
+dramatic shift in the capabilities and uses of
+robots. Today, many robots are out of their
+
+Figure 1: The SeRoDi Service Assistant Robot, image credit: Fraunhofer IPA.
+
+Information Paper | October 2021
+
+3
+
+Robots in Daily Life – the positive
+impact of robots on wellbeing
+
+cages, moving around factories, warehouses,
+homes, and public spaces.
+For decades, industrial robots have made
+manufacturing safer for workers, carrying out
+tasks that are dangerous, dirty – or plain dull.
+The range of tasks robots perform in factories
+has expanded greatly over the past 20 years.
+Robot grippers are now far more dexterous,
+and so can handle a greater range of
+materials. Robots are smaller and lighter,
+meaning they can be used in factories that are
+short on space and in which robots and
+humans need to work alongside one another from pharmaceutical research to foodprocessing, as well as in later stages of
+traditional manufacturing such as product
+assembly.
+The advent of robots that can sense and
+respond to their environment - and in many
+cases move around within it – has taken
+robots outside of industrial settings and into
+public life. Whether in direct contact with
+
+people, or behind the scenes, performing
+tasks we rely on but never think about, robots
+are making our daily lives healthier, safer, and
+more convenient. Robots also have an
+increasing role to play in making our planet
+sustainable for a rapidly rising global
+population.
+This paper from the International Federation
+of Robotics describes how robots are
+improving our daily lives in an increasing
+variety of ways - from helping paraplegics to
+walk again to enabling us to eat fresher foods,
+with lower impact on the planet’s natural
+resources. We look at how robots improve
+health outcomes, the quality and sustainability
+of food, the quality and availability of the
+products we receive, and the reduction of
+carbon emissions.
+For more detail on how robots improve our
+daily lives please see also World Robotics
+Service Robots 1.
+
+Figure 2: Exoskeletons in logistics, image credit: German Bionic
+
+Improving health
+
+variety of ways. They improve efficiency in the
+production of the medicines and medical
+devices we need, make hospitals even safer,
+and ease the load on nurses and carers,
+enabling them to focus more on patients.
+Meanwhile, wearable robots reduce back pain
+
+As robots move out of factories and into daily
+life, one field in which they show significant
+impact is on our health. Behind the scenes,
+robots help improve health outcomes in a
+
+1 World Robotics 2020 – Service Robots. Available at https://ifr.org/worldrobotics/
+4
+
+Information Paper | October 2021
+
+Robots in Daily Life – the positive
+impact of robots on wellbeing
+
+and other acute and chronic work-related
+injuries for workers in many industrial sectors.
+As societies age and we live longer, robots are
+playing a vital role in enabling us to live
+independently for longer, recover faster - and
+better - from age-related conditions such as
+stroke, and live higher quality lives with
+debilitating conditions such as arthritis.
+Robots are also giving hope and freedom to
+people of all ages who have suffered spinal
+cord or other neurological injuries that leave
+them unable to walk or move their hand and
+arms. Robotic wheelchairs that can open
+doors and climb stairs bring increased mobility
+to the wheelchair bound. Thanks to
+exoskeletons (wearable robots), people who
+have been wheelchair-bound for years are
+taking walks in the park with their families.
+
+loads and completing tasks that often cause
+muscle strain. They support overall wellbeing
+by enabling workers – from production
+operators to nurses – to focus on more
+interesting and satisfying tasks.
+
+Improved health at work
+Robots can significantly improve health at
+work in industry sectors that involve heavy
+lifting, including manufacturing, logistics
+healthcare and retail. Over forty percent of
+European employees report having to work in
+tiring or painful positions more than one
+quarter of the time, with 32% being called to
+lift heavy loads 2. In the U.S musculoskeletal
+disorders (MSDs) accounted for 30 percent of
+the days off work in 2018 3 and 5.76% of GDP
+in 2014 (more than defense spending for that
+year) 4.
+
+Video 1: A cobot assists a production worker
+
+Figure 3: Robotic stool, image credit: Noonee
+
+In manufacturing, robots increasingly work
+directly alongside production operators as
+assistants. Many of these are ‘cobots’ –
+lightweight robots with specially rounded
+edges, able to slow or stop when a worker
+comes into their field of operation. They
+perform parts of the overall task that are the
+least ergonomic for the employee, while the
+employee completes the other tasks and
+ensures the process is carried out correctly. In
+this video, for example, the robot lifts and
+places heavy automotive transmission cases,
+and the production operator then completes
+assembly.
+Mobile robots fetch and carry materials in
+manufacturing, healthcare and retail, bringing
+parts to assembly lines, products to workers in
+e-commerce who are assembling orders and
+linens and other items to nurses and nursing
+
+Robots carry out dull, repetitive and
+unergonomic work, fetching and carrying
+
+
+2 Eurofound Sixth European Working Conditions Survey: 2015
+3 US Bureau of Labor Statistics https://www.bls.gov/iif/oshwc/case/msds.htm
+4 United States Bone and Joint Initiative https://www.boneandjointburden.org/fourth-edition/about
+Information Paper | October 2021
+
+5
+
+Robots in Daily Life – the positive
+impact of robots on wellbeing
+
+aids. See the IFR paper ‘A Mobile Revolution
+- How Mobility is Reshaping Robotics’ for
+examples of how mobile robots are assisting
+workers.
+Exoskeletons – wearable robots – are
+increasingly adopted in manufacturing and
+logistics. They are used to provide upper-body
+support, for lifting and for working in
+unergonomic positions, for example on parts
+overhead. There are also wearable robotic
+stools which enable workers to sit when part
+of their work is carried out in a stationary
+position. These exoskeletons recognize and
+respond to changes in the center of gravity of
+the wearer. They either stabilize the wearer in
+
+the correct position or provide additional force
+for lifting.
+At some point, nurses may wear exoskeletons
+for support in moving patients - but healthcare
+organizations
+typically
+have
+budget
+constraints which would require a lower pricepoint than is currently the case. However,
+other robotic support for lifting patients in
+hospital is being trialed. For example, the
+Patient Transfer Assist from Toyota Motor
+Corporation combines weight-supporting
+arms with a mobile platform to help caregivers
+transfer patients from beds to chairs or toilets
+and back. The caregiver operates the robot by
+moving its arms.
+
+Figure 4: The Lio mobile personal robot, image credit: F&P Robotics AG.
+
+Better patient care
+Robots give healthcare workers more time
+to focus on patient care
+
+Robots can significantly reduce this, giving
+nurses more time to focus on patient care.
+Mobile robots loaded with linens and
+medication can find their own way around
+hospitals, some operating lifts and opening
+doors. The hospital employee loads items
+onto the robot, enters the destination – often
+through a separate tablet – and the robot uses
+an internal map and sensors to find its way to
+the destination.
+
+Nurses spend a significant amount of time
+fetching and carrying medications, linen and
+waste, walking at least 4 miles per day
+according to one study 5. An 800-bed hospital
+may handle up to 27 tons of materials every
+day, covering a distance of about 800 km 6.
+
+
+5 How far do nurses walk? Medsurg Nursing 01 Aug 2006
+6 See https://bluebotics.com/agvs-hospital-logistics/
+6
+
+Information Paper | October 2021
+
+Robots in Daily Life – the positive
+impact of robots on wellbeing
+
+Robots increasingly interact directly with
+patients and residents in care homes, with a
+number of assistance robots in trials.
+For example, the Lio mobile personal robot
+from F&P Robotics 7 is aimed at supporting
+healthcare professionals in nursing and
+geriatric institutions and rehabilitation centers
+by carrying out tasks such as greeting
+patients, grasping and carrying objects,
+offering drinks, reminding patients of, and
+accompanying
+them
+to,
+upcoming
+appointments and providing entertainment.
+Self-service robots that allow patients or carehome residents to selects drinks or snacks
+from a mobile vending machine are also being
+trialed 8 and we can expect robots to deliver
+meals directly to patients in the future. See the
+IFR paper ‘A Mobile Revolution - How Mobility
+is Reshaping Robotics’ for more examples of
+how mobile robots are assisting healthcare
+workers.
+
+Video 2: An autonomous robot at work in a
+hospital
+
+Cleaning robots reduce hospital
+infections
+Infections caught during hospital stays
+account for around 37 000 deaths per year in
+Europe and almost 100,000 in the U.S.. The
+cost of treating hospital infections runs to
+around €7 billion in Europe and US$6.5 billion
+in the U.S. 9. Cleaning and disinfection robots
+are widely used in hospitals to combat
+infections.
+
+Figure 5: Disinfection robots, image credit: Blue
+Ocean Robotics
+
+Cleaning robots scrub, sweep and vacuum
+floors while disinfection robots use highfrequency ultraviolet light (UV-C) or spray
+disinfectant to destroy microorganisms. Ultraviolet disinfection robots can destroy 99.9% of
+all microorganisms in a hospital room within
+10 minutes. While the room must be empty
+during disinfection, there are no negative
+health effects from the UV rays. Like the
+mobile robots used in hospitals, described
+above,
+these
+robots
+can
+navigate
+autonomously and, on reaching their
+destination, activate the required function,
+such as spraying or cleaning. Cleaning robots
+use sensors to detect and avoid obstacles in
+their path.
+The COVID-19 pandemic has rapidly
+accelerated the use of cleaning and
+disinfection robots - not only in hospitals, but
+also in other public spaces such as hotels and
+public transport. The IFR forecasts continued
+high growth in both categories of robots going
+forward. See further information and case
+studies on cleaning robots.
+Robots help patients recover faster from
+stroke & neurological disorders
+Robots are used extensively to help patients
+recover from stroke and other severe
+neurological disorders. The market for
+rehabilitation robots is expanding rapidly. The
+
+
+7 See https://www.fp-robotics.com/en/care-lio/
+8 See for example the SeRoDi robotic service assistant, developed by Fraunhofer IPA
+https://www.ipa.fraunhofer.de/en/press-media/press_releases/Service_Robotics_for_Care.html
+9 https://www.who.int/gpsc/country_work/gpsc_ccisc_fact_sheet_en.pdf
+
+Information Paper | October 2021
+
+7
+
+Robots in Daily Life – the positive
+impact of robots on wellbeing
+
+Figure 6: Rehabilitation robot, image credit: Hocoma.
+
+IFR predicts a 37% increase in annual unit
+sales of these robots from 2020 to 2023 10.
+The advantage of robot devices over
+rehabilitation exercises guided only by a
+therapist is that the robot device ensures that
+the movement is repeated in exactly the same
+way each time, training the brain to enable
+muscles to carry out the movements alone.
+Repetitions per session are also generally
+higher with robot-assisted rehabilitation.
+Several studies 11 indicate that the ability of the
+robot to assist in very accurate, repetitive
+movements means that patients recover
+faster through robot-assisted therapy.
+
+are rehabilitation robots for both upper and
+lower body parts. Lower body rehabilitation
+robots typically combine a treadmill or harness
+with an exoskeleton. Robots for the upper
+body are used to restore gross motor skills in
+arms and fine motor skills in the hands.
+Upper-body robots generally comprise an
+exoskeleton arm attached to a chair and video
+screen. Users perform movements as directed
+by the training program. There are also
+rehabilitation gloves focused on regaining fine
+motor skills in the hands. See further information and case studies on rehabilitation
+robots.
+
+Many robotic rehabilitation devices comprise
+exoskeletons - robotic external skeletons
+adapted for a particular body part - linked to a
+program that transfers data from the training
+program to the exoskeleton and vice versa.
+Sensors in these exoskeletons predict and
+respond to the patient’s intended motion,
+correcting and supporting to encourage the
+desired movement. The level of assistance, or
+force, provided by the robot can be adapted as
+the patient gains strength, and the systems
+Video 3: Robot filling vials
+come with pre-programmed routines that can
+be set to the patient’s level of mobility. There
+
+
+10 See https://ifr.org/worldrobotics/
+11 See for example Kim et al. 2017 Is robot-assisted therapy effective in upper extremity recovery in early
+stage stroke? and Mehrholz et al. 2017 Electromechanical-assisted training for walking after stroke
+8
+
+Information Paper | October 2021
+
+Robots in Daily Life – the positive
+impact of robots on wellbeing
+
+Robots improve efficiency of
+medicines and medical devices
+Robots are increasingly used across the
+whole pharmaceutical supply chain, from
+basic research to the production of medicines,
+quality inspection and packaging. Robots
+support the discovery of vital new treatments,
+enable faster medical tests for patients, and
+help pharmaceutical manufacturers to meet
+increasingly strict regulations for the
+production of medicines and maximize the
+efficiency of drug production.
+Robots support medical researchers by
+carrying out repetitive tasks that must be
+completed in high numbers with great
+precision such as filling vials, handling
+and
+placing
+samples
+on
+samples 12
+microscope slides. A robot can place 40,000
+dots of DNA onto a single microscopic slide –
+a task impossible for humans. Researchers
+can focus on higher-value work with less risk
+of repetitive strain injury.
+
+In pharmaceutical production, robots can work
+in sterile environments which are required for
+many products such as infusions. They are
+widely used in the production of medicines
+and medical devices, carrying out a variety of
+tasks such as assembling medical syringes 13,
+filling and labelling vials 14, and packaging
+medications and medical devices. Robots also
+improve productivity in the production of
+medical equipment and devices. Robots have
+been indispensable during the COVID-19
+pandemic, supporting the production of lifesaving products including personal protective
+equipment (PPE), disinfectants, medical
+diagnostic equipment and ventilators 15.
+Robots also speed up medical testing – one
+laboratory was able to deliver more than 90%
+of blood test results within 1 hour despite a
+20% increase in samples arriving for analysis,
+thanks to two robots 16. Blood samples arrive
+in the lab on a conveyor. The first robot picks
+up a sample and places it in a barcode
+scanner. A vision camera photographs the
+color of the screw cap, and the robot is guided
+to place the sample in one of four different
+
+Figure 7: Robots speed up medical testing, image credit: Universal Robots.
+
+
+
+12 See for example https://youtu.be/sCkb0Cph-3Y
+13 See for example https://youtu.be/hW0Y_hBrsc8
+14 See for example https://youtu.be/OK4F6W8x34Q
+15 See https://ifr.org/case-studies/robots-help-fight-the-battle-against-covid-19-pandemic
+16 See https://youtu.be/mnk4iT4BTg4
+Information Paper | October 2021
+
+9
+
+Robots in Daily Life – the positive
+impact of robots on wellbeing
+
+racks according to color. The second robot
+picks up the rack samples and places them in
+the machine feeder for centrifugation and
+analysis.
+
+and enables many patients to reduce or
+eliminate pain medication and its associated
+side-effects such as fatigue.
+
+More independence for the
+elderly
+Robots are helping the elderly to remain
+independent in assisted-living facilities or their
+own homes. Telepresence robots, comprising
+a screen mounted on a remote-controlled
+robot, connect an older person with their
+carers, friends and family.
+Most of these robots are controllable from any
+location with a smartphone or computer and
+internet connection. Family members, friends,
+doctors, and care givers can all log into the
+telepresence robot, drive it, interact with
+others, and explore the environment with
+audio and video.
+
+Figure 8: Exoskeleton, image credit: ReWalk
+
+The exoskeletons control movement of lower
+limbs by sensing and responding to changes
+in the wearer’s center of gravity. For example,
+a forward tilt initiates a step forward, powered
+by the robot. Repeated body shifting
+generates a sequence of steps which mimics
+a functional natural gait of the legs.
+These robots are good news for physical
+therapists too, reducing physical load and
+improving productivity and job satisfaction
+though visible and measurable results. Data
+from the exoskeleton shows how much the
+patient is working and how much the machine
+is assisting them, so the therapist can adjust
+to the required level of assistance and both
+therapist and patient can monitor their
+progress. See further information and case
+studies on exoskeletons.
+
+Video 4: Telepresence robot supports
+independent living
+
+Increased mobility for people
+with disabilities
+Robots are making a significant impact on the
+lives of people with physical disabilities.
+Exoskeletons enable paraplegics to walk
+again
+Wearable robots called exoskeletons enable
+people who were wheelchair bound to walk
+again. Not only does this vastly improve their
+mental health, it also reduces complications
+from sitting in a wheelchair such as obesity,
+cardio-metabolic problems, sores and bone
+deterioration. It improves digestive function
+10
+
+Robots support people with limited
+mobility in hands and arms
+Robots support wheelchair-bound people who
+also have limited mobility in their hands and
+arms. There are a variety of robotic arms that
+can be attached to a wheelchair to enable
+people to open doors, pick up objects and
+perform a wide variety of other tasks, including
+feeding themselves.
+In some cases, the arm is operated through
+the joystick or other device used to operate the
+
+Information Paper | October 2021
+
+Robots in Daily Life – the positive
+impact of robots on wellbeing
+
+wheelchair itself 17. In other cases 18, the robot
+arm is a splint into which the user lays their
+own arm. The robot arm senses the motion
+intended by the wearer and calculates the
+support needed.
+There are a number of other robotic aids for
+people with restricted motion in hands and
+arms, such as feeding devices that comprise
+robotic arms that are remotely controlled by
+the user from another part of the body (foot or
+chin for example) 19.
+Most electric wheelchairs use joysticks or
+other manually operated input devices, which
+makes them unusable for people unable to
+move their hands and arms. Autonomous
+wheelchairs that respond to eye movement
+and can map their environment to navigate
+
+Figure 9: Robot feeding device, image credit: Obi
+
+autonomously and go up and down stairs are
+being developed 20. Researchers at MIT in the
+US are working on a voice-controlled
+autonomous wheelchair for people who have
+lost mobility due to brain injury or the loss of
+limbs, but who retain speech 21.
+
+Figure 10:Robot arm attached to a wheelchair, image credit: Kinova.
+
+
+
+17 See for example the Jaco from Kinova https://www.kinovarobotics.com/en/assistive-technologies
+18 See for example the Dowing from Focal Meditech https://www.focalmeditech.nl/dowing/
+19 See for example the Obi from Obi Robot www.MeetObi.com and the Bestic feeding device from Camanio
+Care https://youtu.be/FLWLY5wHop8
+20 See https://www.mdpi.com/2227-7080/9/1/16/htm
+21 See https://www.csail.mit.edu/node/5962
+
+Information Paper | October 2021
+
+11
+
+Robots in Daily Life – the positive
+impact of robots on wellbeing
+
+Improving the quality
+and sustainability of
+food
+It is widely acknowledged that feeding a global
+population estimated to reach 9 billion by 2050
+with current agricultural methods and food
+supply chains is not sustainable. The 50%
+increase in productivity required 22 seems
+unlikely given that up to 40% of what is sown
+does not make it to market 23. Agriculture takes
+a major toll on the environment, accounting for
+up to 30% of greenhouse gas emissions 24,
+and is a major contributor to deforestation
+which reduces the supply of a vital natural
+means of carbon sequestration. Agriculture
+also uses 70% of the world’s supply of
+freshwater, which is already in scarce
+supply 25. Fertilizer and pesticide use also
+contribute to greenhouse gas emissions.
+At the other end of the food chain, we
+increasingly eat foods that have travelled vast
+distances and have lost valuable nutrients
+along the way or include additives to preserve
+freshness.
+Robots are making their mark across the food
+chain and, as vision and gripping technologies
+
+improve, will become increasingly ubiquitous
+in commercial agriculture over the next
+decade. Used as part of precision agriculture
+systems, robots can vastly reduce the amount
+of fertilizer, pesticide and water needed to
+grow crops and eliminate weeds that threaten
+them and improve the productivity of farms at
+the same time. Smaller, lightweight robots
+reduce damage to soil. Meanwhile, many
+urban consumers already benefit from robots
+that prepare food freshly to order without
+additives, and from fresh vegetables grown in
+automated greenhouses that are cost-efficient
+to establish near urban centers.
+Robots reduce pesticide use and energy
+consumption in farming
+Robots are increasingly used in precision
+agriculture, which combines sensors, vision
+technology,
+GPS
+navigation,
+artificial
+intelligence and robots or modified traditional
+agricultural equipment to provide detailed
+information on plant location and health and to
+automate tasks such as planting, hoeing,
+weeding, watering and applying herbicides
+and pesticides. The use of robots in
+agriculture reduces the back-breaking work of
+planting and hoeing and enables farmers to
+apply exactly the right amount of nutrients,
+
+Figure 11: Robotic greenhouse, image credit: IronOx.
+
+
+
+22 World Bank 2017
+23 Food and Agriculture Organisation: Seeking end to loss and waste of food along production chain
+24 McKinsey 2019
+25 Freshwater accounts for only 3% of the world’s water resources. The World Wildlife Fund estimates that by
+2025, two-thirds of the world’s population may face water shortages.
+12
+
+Information Paper | October 2021
+
+Robots in Daily Life – the positive
+impact of robots on wellbeing
+
+water and pesticides to plants. This improves
+agricultural output, since weeds reduce major
+crop yields by 34% on average 26, and reduces
+the amount of pesticides and herbicides
+needed – by around 80% for some crops 27,
+reducing both environmental impact and
+costs.
+
+Figure 12: Autonomous weeding robot, image
+credit: Ecorobotix
+
+There are a number of start-up companies in
+precision agriculture focused on planting,
+weeding, watering and the targeted
+application of fertilizer, herbicide and
+pesticide. These are generally lightweight
+robots which have the advantage of not
+compacting soil, thus preserving valuable
+microorganisms. These lighter robots also use
+less energy than heavy agricultural
+machinery. The robots can navigate according
+to an internal map which they update in realtime, similar to a driverless car. Machine
+learning and other artificial intelligence
+algorithms are used to enable the robot to
+distinguish between weeds and plants as well
+as to plan the path of the robot gripper to grasp
+and pull out the weed. Some manufacturers
+offer these robots on a rental basis (so-called
+Robot-as-a-Service) 28.
+
+Robots reduce the amount of water used
+in farming
+According to the World Bank, in most regions
+of the world, over 70 percent of freshwater is
+used for agriculture. By 2050, feeding a planet
+of 9 billion people will require a 15 percent
+increase in water withdrawals. A number of
+research projects are focused on robotic
+irrigation, which can significantly reduce water
+usage 29. Powered by artificial intelligence
+algorithms which predict, from GPS, satellite
+and other data, exactly how much water is
+needed, robots can be used to directly irrigate,
+or to adjust smart valves in sprinkler hoses.
+Automated nurseries and greenhouses that
+can be established near to urban centers, can
+also significantly reduce water use, and there
+are numerous start-up companies in this field.
+Many work on the principle of ‘vertical farming’
+where produce is grown in vertically-stacked
+trays without soil, fed with water-based
+nutrients and artificial lighting. Some of these
+companies use robots to transfer plants to
+larger trays as they grow and to monitor plant
+health using robotic vision systems 30. Some
+robotic nursery/greenhouse solution providers
+claim these hydroponic growing systems use
+around 90% less water than traditional
+farming while growing 30 times the amount of
+crops per acre of land 31.
+Robots enable us to eat fresher foods
+Robots are increasingly at work in food
+production, helping us access fresher foods.
+Many of the vegetables and fruits we buy in
+supermarkets travel thousands of miles to
+reach us, contributing to increased emissions
+and losing freshness by the mile.
+
+
+
+26 Crop Losses to Pests, Orke 2009
+27 Precision agriculture and the future of farming in Europe, European Parliamentary Research Service 2016
+28 See for example https://www.naio-technologies.com/en/news/dinos-brand-new-mechanical-weedingservice-waas/
+29 See for example ‘Development of an autonomous mobile plant irrigation robot for semi structured
+environment’ 2nd International Conference on Sustainable Materials Processing and Manufacturing (SMPM
+2019) and https://nevonprojects.com/plant-irrigation-water-sprinkler-robot/
+30 https://ironox.com/
+31 https://ironox.com/
+
+Information Paper | October 2021
+
+13
+
+Robots in Daily Life – the positive
+impact of robots on wellbeing
+
+transported directly to the supermarket. The
+system can process an endless variety of
+orders and ensures that 75 percent of the
+products processed today are on store
+shelves the following day 32.
+
+Video 5: Shortening supply chains for fresh food
+
+Robots can help shorten supply chains. For
+example, one of the largest vegetable
+processing companies in Europe, which
+produces 3.5 million to 4 million fresh
+convenience products every week such as
+salads and pre-cut vegetables and fruit, uses
+robots to prepare orders according to each
+food retailer’s needs, so that the products can
+be shipped directly to stores and
+supermarkets instead of making an
+intermediate stop at a distribution center. This
+reduces the amount of time that fresh food
+spends in the supply chain, resulting in
+extended shelf life and less wasted food.
+One robot takes crates containing the orders
+for a particular market and places them on a
+conveyor belt. Others pick them up and place
+them in a location designated for that market.
+Two more robots consolidate the orders in
+stable stacks. The crates are then picked up
+by another robot and placed on dollies to be
+
+Figure 14: The Breadbot
+
+Robots are also enabling local production of
+fresh vegetables. Automated nurseries (see
+above) can be set up near cities and are also
+resource efficient. Meanwhile, robot breadmaking units are making their way into
+supermarkets and mobile automated kitchens,
+enabling customers to enjoy freshly made
+food, with less additives. In the Breadbot
+example shown in the video below,
+employees fill the robotic unit with ingredients
+and the robot does the rest, preparing the mix
+for a specific type of bread, kneading, proofing
+and baking. Customers can select, through a
+touchscreen, the type of bread they want and
+specify whether it should be sliced or still
+warm.
+Cow-milking robots keep small farms in
+business
+Dairy farming is a risky business, particularly
+for small farms which struggle to remain
+competitive. According to the US Department
+of Agriculture, for example, the number of
+licensed U.S. dairy herds fell by more than half
+between 2002 and 2019 33. The COVID-19
+pandemic has exacerbated challenges for
+dairy farmers all over the world.
+Cow-milking robots help farmers remain
+competitive, smoothing out labor demand
+
+Figure 13: Cow-milking robot
+
+
+32 See https://youtu.be/I-rbncpOzxo
+33 USDA: Consolidation in U.S. Dairy Farming, July 2020
+14
+
+Information Paper | October 2021
+
+Robots in Daily Life – the positive
+impact of robots on wellbeing
+
+cycles and enabling farm workers to focus on
+other activities, such as improving animal
+health,
+vaccination
+and
+improving
+reproduction. The cow walks of its own accord
+into the milking robot unit. A transponder
+around the cow’s neck is read by the robot,
+enabling a range of herd management tasks
+such as monitoring the control of the milk
+yield, the milk flow, and the milk quality. The
+milking robot executes the whole milking
+process, beginning with teat cleaning and
+ending with the removal of the last teat cup
+and spraying of the teats.
+One of the main advantages of the robot vs.
+traditional milking machines is that the cow
+decides when to be milked. The other
+advantage is the data which is gathered by the
+robot which can be used, for example, to
+adjust the type and amount of food
+concentrates an individual cow receives.
+Finally, the robot also improves quality of life
+for farmers by relieving them of very early or
+late milking schedules.
+Improving the range and quality of
+products we buy at competitive prices
+Gone are the days when, in the words of
+Henry Ford, "You can have any color as long
+as it's black"! As consumers, we enjoy a
+continuously increasing range of products,
+and product options. Without industrial robots,
+
+Figure 15: Cobots enable high mix/low volume
+production
+
+we would not be able to buy a new
+smartphone every few years. Robots enable
+manufacturers to produce an increasing range
+of products in small volumes (known as high
+mix/ low volume production), often at short
+notice, without passing on substantial price
+increases to customers.
+‘Cobots’ - collaborative robots that work
+alongside production operators - shorten
+production times, carry out unergonomic and
+boring tasks, and can be easily switched from
+one production line and task to another, giving
+manufacturers the flexibility they need to
+remain competitive. Cobots help keep many
+small-to-medium-sized
+manufacturers in
+
+Figure 16: Human-robot collaboration at BMW, image credit: BMW.
+
+Information Paper | October 2021
+
+15
+
+Robots in Daily Life – the positive
+impact of robots on wellbeing
+
+Figure 17: Pixel Paint robot, image credit: ABB.
+
+business, and in some cases enable
+manufacturers to keep production - and jobs –
+local, rather than outsourcing to countries with
+cheaper labor costs. The US high mix/ low
+volume manufacturer in this video, for
+example, mounted two cobots on mobile
+pedestals so they could be quickly assigned to
+new tasks based on orders for that day and
+placed next to workers in the designated
+production line. The robots were generally
+given tedious, unergonomic tasks such as
+cutting 16.000 wires a day, which would put
+employees at risk of carpal tunnel syndrome.
+These employees were assigned to other
+tasks. Using the robots optimized production
+by 20% and enabled the company to bring
+some of the production it had outsourced
+abroad back to the US.
+Robots are also used to inspect products for
+quality. Equipped with cameras and machine
+vision, these robots can detect flaws that the
+human eye can’t spot. They also keep
+industrial plants safe by inspecting the status
+of machines, particularly in inhospitable
+environments such as underwater or in hightemperature settings.
+Reducing the environmental impact of
+production
+
+without heating or air conditioning, and in very
+high or low temperatures that are
+uncomfortable or dangerous for employees.
+Robots
+reduce
+waste
+and
+energyconsumption by improving the efficiency of
+production and packaging processes. One
+food manufacturer was able to reduce
+packaging waste for fresh convenience food
+by 25% using robots instead of traditional
+machines 34.
+Robots enable manufacturers to better match
+production to demand, which reduces
+inventory for parts and materials, and overproduction of end-products. Moreover,
+production processes can be optimized with
+robots. For example, ABB’s pixel-painting
+robot enables a customized paint job to be
+carried out in a single pass, reducing cycle
+times by around 50 percent. The robot paints
+directly on to the target surface using a
+printing nozzle head instead of spraying with
+a conventional atomizer. This reduces waste
+to zero and eliminates the need for masking or
+de-masking. Emissions are reduced because
+less paint is required, avoiding the CO2
+normally emitted during production. Robots
+are also used to detect emissions, and to
+inspect machinery to ensure it is running
+optimally, reducing heat generation and
+energy consumption.
+
+Robots contribute to lowering the overall
+carbon footprint of manufacturing by
+Robots are themselves increasingly energyincreasing efficiency, minimizing material
+efficient, made from lighter, composite
+waste and enabling manufacturers to optimize
+materials and using energy-efficient engines
+space – and thus the energy associated with
+and gears with reduced frictional losses. Many
+lighting and heating. Robots can operate
+
+34 See https://www.universal-robots.com/case-stories/atria/
+16
+
+Information Paper | October 2021
+
+Robots in Daily Life – the positive
+impact of robots on wellbeing
+
+have energy-saving modes when in stand-by,
+as well as energy-efficient control and drive
+technologies. Thanks to sensors and analytic
+algorithms, their speed can be optimized to
+enable up to 25% savings in energy. Some
+robots that work outdoors even run off solar
+power.
+Finally, and as mentioned above, robots
+enable
+manufacturers
+in
+developed
+economies to produce closer to the customer
+at competitive prices, thereby minimizing
+energy consumption in the logistics chain.
+
+Future directions
+Robots are already vacuuming our houses
+and mowing our lawns. While we are still far
+away from the multifunctional household robot
+that frees us from all our chores, we can
+expect an increasing number of (usually single
+task) robot assistants in our homes in the
+coming years. In the future, robots will work as
+kitchen assistants, fetching and carrying
+ingredients and even preparing food. They will
+assist the elderly in fetching and carrying
+objects around the house and supporting
+mobility.
+Robots that come into contact with us will be
+able to respond better thanks to improved
+language processing, and a greater
+understanding of the properties of the person
+(or object) in front of them – a child versus an
+elderly person, for example.
+Improvements in robot grippers mean robots
+are able to pick up an increasing variety of
+objects that are flexible or have uneven and
+delicate shapes – such as fruit and vegetables
+– further improving the efficiency of
+manufacturing and food production, enabling
+us to enjoy fresh food at competitive prices.
+
+Conclusion
+The examples in this paper are only some of
+the ways in which robots are improving our
+daily lives 35. They illustrate how robots
+contribute to our well-being in more ways than
+we typically realize:
+• improving our health and quality of life,
+even as we age,
+• reducing heavy lifting in a variety of jobs,
+• improving the quality and sustainability of
+the food we eat,
+• positively contributing to the quality and
+variety of products on offer, and
+• contributing to sustainability by making
+production more energy and resource
+efficient.
+In many cases, we are not aware of the robots
+at work in these fields, but increasingly, robots
+are at our sides, serving as assistants and
+even as wearable aids.
+Strict standards that apply to the manufacture
+and use of robots ensure these applications
+are safe.
+As robot technologies advance rapidly, we
+can look forward to many other improvements
+in our daily lives over the next decades thanks
+to robot helpers.
+
+Case studies and videos
+Improving health
+
+Case studies
+• Cleaning and disinfection robots
+https://ifr.org/case-studies/cleaningrobots-reduce-infections
+• Rehabilitation robots https://ifr.org/casestudies/robots-help-patients-recoverRobots will also help in efforts to reduce
+faster-from-stroke
+climate emissions. Robots are already at work
+• Supporting the production of medical
+in areas such as recycling and ocean-cleandevices and equipment
+up and we can expect to see their use in these
+https://ifr.org/case-studies/robots-helpareas expand significantly.
+fight-the-battle-against-covid-19-pandemic
+• Medical testing
+https://youtu.be/mnk4iT4BTg4
+
+35 https://sustainabilityreport.abb.com/2020/leading-technology/robotics-discrete-automation.html
+
+Information Paper | October 2021
+
+17
+
+Robots in Daily Life – the positive
+impact of robots on wellbeing
+
+• Exoskeletons https://ifr.org/casestudies/exoskeletons-enable-paraplegicsto-walk-again
+Videos
+• A cobot assists a production worker
+https://youtu.be/02TzqIvWiso
+• Exoskeletons at BMW
+https://youtu.be/cMdjeua8Gqc
+• An autonomous robot at work in a hospital
+https://youtu.be/mVreTUNKxa8
+• A rehabilitation robot
+https://youtu.be/qic2nvvGsEw
+• Assembling medical syringes
+https://youtu.be/hW0Y_hBrsc8
+• Filling and labelling vials
+https://youtu.be/OK4F6W8x34Q
+• Robotic arm attached to a wheelchair
+https://youtu.be/n16RImbHUbs
+• Autonomous wheelchair
+https://youtu.be/_MB6y-2X2Qs
+• Feeding device
+https://youtu.be/FLWLY5wHop8
+• Telepresence robot supports independent
+living https://youtu.be/NfYqQ1TmjNw
+• Exoskeleton personal testimonial
+https://youtu.be/aNgf8sPAer8
+• Robot arm attached to a wheelchair:
+https://youtu.be/n16RImbHUbs
+
+18
+
+Improving the quality and Sustainability of
+Food
+Videos
+• Agricultural robot hoeing
+https://youtu.be/9LdXvkvcSxM
+• Shortening supply chains for fresh food
+https://youtu.be/I-rbncpOzxo
+• Robotic greenhouse:
+https://youtu.be/m_RXm119XPM
+• The Breadbot:
+https://youtu.be/ypOojO8TlLI
+• Cow-milking robot
+https://youtu.be/o515XdtU7NM
+Improving the range and quality of
+products we buy at competitive prices
+Videos
+• Cobots enable high mix /low volume
+production https://youtu.be/ZdjN9AHwzqs
+Reducing the environmental impact of
+production
+Case studies:
+• Reducing packaging waste
+https://www.universal-robots.com/casestories/atria/
+Videos
+• PixelPaint robots help reduce emissions
+https://youtu.be/XfWsdem6gw8
+
+Information Paper | October 2021
+
+

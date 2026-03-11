@@ -1,0 +1,969 @@
+published by
+International Federation of Robotics
+Frankfurt, Germany
+January 2026
+
+POSITION PAPER
+
+AI in Robotics
+
+Picture Source: Robotphoenix
+
+TRENDS, CHALLENGES,
+COMMERCIAL APPLICATIONS
+
+AI IN ROBOTICS
+
+CONTENTS
+
+IN BRIEF .......................................................................................................... 3
+Intro .......................................................................................................... 3
+Evolution of AI .......................................................................................... 3
+New Vision for AI in Robotics ................................................................... 3
+EXECUTIVE SUMMARY & KEY FINDINGS ................................................... 5
+How AI is supporting robotics ................................................................... 5
+Industries at the forefront.......................................................................... 5
+AI is reshaping work ................................................................................. 5
+Macroeconomic Trends impacting AI ....................................................... 6
+Safety concerns ........................................................................................ 6
+Addressing Sustainability ......................................................................... 6
+DEEP DIVE....................................................................................................... 7
+AI in Robotics – Six core subfields ........................................................... 7
+AI-driven capabilities already in use ......................................................... 7
+Outlook 2030-2035 ................................................................................... 8
+Outlook beyond 2035 ............................................................................... 9
+Safety and security for AI in Robotics .................................................... 10
+AI regulations by Governments .............................................................. 12
+APPENDIX ..................................................................................................... 14
+References ............................................................................................. 14
+Contact ................................................................................................... 14
+Editorial................................................................................................... 14
+
+2
+
+Position Paper | January 2026
+
+AI IN ROBOTICS
+
+IN BRIEF
+Intro
+Artificial Intelligence has long been
+embedded in robotics, shaping automation
+from factory floors to service environments. Its
+core purpose has been to help robots handle
+variability and unpredictability—managing
+shifting products, orders, and inventory in highmix, low-volume operations, and enabling
+robots to operate safely and reliably in public
+spaces. Now, as AI becomes more capable and
+accessible, it is transforming from a supporting
+technology into a powerful enabler, driving
+more seamless implementation and opening
+the door to wider robot adoption across
+industries.
+
+Evolution of AI
+AI is driving advancements in robotics and
+industrial automation in various ways:
+Analytical AI enables robots to process and
+analyze large amounts of data collected by their
+sensors. Robots equipped with vision systems,
+for example, analyze tasks to spot patterns and
+optimize operations for speed and accuracy.
+Generative AI enables robots to autonomously
+generate intent-based actions, adapt to new
+environments, and interact with humans in
+more intuitive and creative ways. It marks a shift
+from rule-based automation to intelligent, selfevolving systems. In the future, GenAI will help
+to make robotics more accessible, addressing
+a strategic challenge for industry: enabling nonexperts to deploy and operate robotic systems.
+Developers are leveraging dialog-driven
+interfaces, streamlined system integration, and
+runtime adaptability to simplify user interaction.
+These innovations are expected to reduce the
+need for specialized programming skills,
+allowing broader participation in automation.
+The trend supports a wider push toward lowcode and no-code platforms, particularly in
+small and medium-sized enterprises (SMEs)
+and
+unstructured
+environments
+where
+traditional robotics have faced adoption
+hurdles. By lowering technical barriers, AI is
+
+reshaping how robotics are integrated into
+everyday operations 1.
+
+Figure 1: IoT data analysis service identifies
+bottlenecks, particularly in filling machines. Picture
+source: Omron.
+
+New Vision for AI in Robotics
+The idea of a new generation of AI-powered
+robots moving from research labs into the real
+world is fueled by AI tech companies and
+analysts forecasting a multitrillion-dollar
+market. The vision is to give artificial
+intelligence its own robot body. Robot and chip
+manufacturers recently are investing in
+dedicated hardware and software for example,
+that simulate real-world environments. This socalled Physical AI allows robots to train
+themselves in virtual environments and operate
+by experience, rather than programming.
+The excitement about embodied AI has drawn
+attention from major tech players and
+governments around the world. In the United
+States, companies like Amazon, Tesla, and
+Nvidia have announced record-breaking
+investments. Venture capital is pouring into a
+growing ecosystem of startups focused on
+specialized robot applications.
+In Europe, ABB announced it had signed an
+agreement to divest its Robotics division to
+Japan’s SoftBank Group, combining ABB
+Robotics’ with SoftBank’s capabilities in AI.
+China’s Ministry of Industry and Information
+Technology (MIIT) announced a dedicated
+action plan to accelerate embodied AI,
+positioning it as “future industry” critical to
+China’s economic transformation.
+
+
+1
+
+DEEP DIVE page 6: AI in Robotics – Six AI subfields.
+
+Position Paper | January 2026
+
+3
+
+AI IN ROBOTICS
+
+4
+
+Position Paper | January 2026
+
+AI IN ROBOTICS
+
+EXECUTIVE SUMMARY & KEY FINDINGS
+This position paper by the International
+Federation of Robotics examines how Artificial
+Intelligence is accelerating the next wave of
+robotics
+AI is transforming the field of robotics at a rapid
+pace. Integrating AI into robotics enhances
+capabilities, increases efficiency and improves
+adaptability.
+
+How AI is supporting robotics
+Powered by deep learning, computer vision
+enables robots to “see” and interpret visual
+data for tasks like object recognition, barcode
+reading, sorting, and real-time monitoring on
+production lines.
+Especially supervised learning is commonly
+used for tasks like defect detection,
+predictive maintenance, quality inspection,
+and process optimization. Robots learn from
+labeled data to make accurate predictions or
+classifications.
+Used in collaborative or service robots that
+interact with humans, Natural language
+processing (NLP) allows robots to understand
+and respond to spoken or written
+commands.
+In mobile robotics, AI is used to combine data
+from multiple sensors (e.g., LiDAR, cameras) to
+enable SLAM (Simultaneous Localization and
+Mapping) navigation in warehouses or
+manufacturing floors.
+Though still emerging in industrial settings,
+Reinforcement Learning (RL) is being
+increasingly used for robot motion and path
+planning, grasping, and adaptive control,
+where robots learn by trial and error to improve
+performance in dynamic environments.
+The next step is for generative AI. It can, for
+example, change the way that coding is done.
+It will do this by creating code for entire
+functions that a robot will perform based on
+natural language instructions.
+
+Position Paper | January 2026
+
+Industries at the forefront
+There are currently several key sectors
+leading the way in integrating AI and robotics:
+Logistics and warehousing are frequently
+cited as the leading domain. This is driven by
+high demand, available investment, and
+relatively controlled environments. Fields of
+adoption include logistics, warehousing and
+intralogistics, and the broader supply chain.
+The sector attracts attention for its resilience
+and growth potential.
+The
+manufacturing
+and
+industrial
+automation sector is a focal point for
+investment: As companies seek to streamline
+operations and enhance output quality, AI and
+robotics are playing an increasingly central role
+in modern manufacturing strategies. The sector
+is spanning a broad array of industries. This
+includes automotive, electronics, and the
+general industries like pharma. The category
+encompasses high-skill production processes,
+factory automation systems, and precision
+assembly tasks.
+The service sector is among the leading
+customers adopting AI and robotics. AI is
+supporting human-robot interaction, allowing
+for example a natural communication and
+increasing the usability and personalization of
+the robots. This trend is driven by rising costs
+and a shortage of workers, particularly in postpandemic markets, where recruitment has
+lagged demand. Restaurants, for example, are
+experimenting with robotic servers and kitchen
+assistants. The future lies in hybrid models
+where robots handle repetitive tasks and
+humans deliver the personal touch.
+
+AI is reshaping work
+Robot installations are traditionally taking over
+physically demanding and repetitive tasks,
+freeing employees from harsh working
+conditions. As AI tools become more common,
+new roles emerge for supervising, analyzing
+and making decisions. This is creating new
+jobs, including AI engineers, data scientists,
+machine learning specialists, and ethicists. To
+5
+
+AI IN ROBOTICS
+
+fill these new jobs, there is a growing demand
+for digital and cognitive skills, such as coding
+and data literacy, as well as critical thinking.
+
+public–private partnerships to anticipate and
+mitigate new cybersecurity risks in robotics.
+
+In future, AI in robotics will further influence how
+teams work, how decisions are made, and how
+performance is monitored. This can improve
+workflows but may also raise concerns about
+employee surveillance or reduced autonomy.
+Companies and governments are pushing
+reskilling and upskilling programs to help
+workers remain competitive in an AI-driven
+economy. AI enhances efficiency, reduces
+errors, and increases output across many
+industries. This can lead to economic growth
+but also puts pressure on businesses and
+workers to continuously adapt and innovate 2.
+
+Safety concerns
+
+Macroeconomic Trends impacting
+AI
+The future of AI and robotics is being shaped by
+a series of macro trends.
+Economic and Social Pressure: Geopolitical
+instability caused by global trade tensions and
+rising tariffs is pushing up manufacturing costs
+and encouraging companies to increase
+efficiency by using AI powered robots. This
+trend is further fueled by labor shortages.
+Robots equipped with AI can augment human
+teams and stabilize productivity.
+Investment and Strategic Importance: AI and
+robotics are becoming central to corporate
+strategy, with funding flowing into research,
+education and computing infrastructure.
+Executives see the technologies as critical to
+long-term competitiveness.
+Safety and Governance: Growing scrutiny of
+AI systems is prompting calls for greater
+transparency and safeguards against bias.
+Regulators are tightening rules on data privacy,
+adding pressure on companies to comply.
+Cybersecurity: The growing integration of
+robotics with AI is creating new cybersecurity
+vulnerabilities, as AI-enabled robots typically
+are connected to the cloud and thus become
+attackable. Companies and governments need
+to set clear safety standards and build strong
+
+There are certain safety concerns applying to
+AI used in the context of physical robots that
+require attention by developers and users alike.
+This includes data poisoning and training with
+compromised datasets, addressing biases, and
+the unpredictability of autonomous systems.
+Quality of AI generated code needs to be
+ensured.
+Malfunctions of the AI in the physical world can
+have more severe consequences and the
+physical
+safety
+during
+human-robot
+collaboration must be guaranteed at all times.
+
+Addressing Sustainability
+A focus on sustainability will positively shape AI
+development in robotics, driving efficiency,
+extending robot lifespan, aligning with ethical
+goals, and enabling green transformation
+across industries.
+However, it will also push the field to confront
+the energy cost of AI itself. There are concerns
+over the ecological cost of training large
+models. Deep learning's carbon footprint, for
+example, may conflict with sustainability unless
+mitigated.
+Energy Efficiency & Power Optimization
+addresses concerns around the energy
+demands of large AI models. This includes
+reducing energy consumption of robots and AI
+systems such as trajectory optimization and
+efficient processing.
+Waste Reduction & Circular Economy
+supports goals such as automated sorting,
+reuse, and recycling. AI is used to minimize
+material waste, optimize resource usage, and
+reduce scrap in manufacturing.
+Longevity, Maintenance & Reliability leads
+to longer robot lifespans, easier servicing, and
+lower resource demand over time. AI enables
+predictive maintenance and smarter robot
+operation.
+
+
+2
+
+6
+
+More details in IFR Position Paper "Next Generation
+Skills"
+
+Position Paper | January 2026
+
+AI IN ROBOTICS
+
+DEEP DIVE
+
+Figure 2: AI helps the robot gripping parts out of a box. Picture Source: KUKA
+
+AI in Robotics – Six core subfields
+
+troubleshooting,
+making.
+
+Manufacturers are increasingly using AI to
+upgrade automation. Robots currently benefit
+most from six core subfields of AI, which
+provide them with new capabilities:
+
+Physical AI integrates sensory data from the
+environment to understand and respond to realworld conditions.
+
+Machine learning algorithms help to predict
+equipment failures and optimize production
+schedules.
+
+AI-driven capabilities already in use
+
+Computer vision systems based on machine
+learning are being used to detect defects and
+guide robotic arms with precision.
+Reinforcement learning trains robots through
+trial and error and is gaining traction in complex
+tasks.
+Natural language processing is making
+inroads, enabling voice-controlled machinery
+and multilingual support interfaces on factory
+floors.
+Large language models are being used to
+automate documentation, assist engineers in
+Position Paper | January 2026
+
+and
+
+streamline
+
+decision-
+
+AI will be a fundamental building block in
+various robotics applications. A number of
+capabilities based on AI are already used in
+robotics today:
+Machine vision systems
+Machine vision systems are emerging as a
+cornerstone of robotic intelligence, enabling
+machines to perceive and respond to their
+environments with increasing precision. From
+manufacturing floors to logistics hubs, these
+systems are reshaping industrial workflows and
+accelerating automation.
+Applications span a wide range of functions,
+including quality inspection, object detection
+7
+
+AI IN ROBOTICS
+
+and classification, and automated tasks such as
+bin picking, palletizing, and sorting. Vision
+systems also play a critical role in guiding
+robotic motion and behavior, often relying on
+deep learning models trained on visual data. In
+addition, image processing and feedback loops
+allow robots to adapt in real time, improving
+accuracy and efficiency.
+
+Figure 3: Ottonomy’s Ottobot AMR featuring the
+Ambarella’s N1 edge GenAI SoC. Picture Source:
+Ambarella
+
+Autonomous mobility
+Autonomous navigation technologies are
+rapidly advancing, with mobile robotics and
+SLAM
+(Simultaneous
+Localization
+and
+Mapping) systems playing a pivotal role in
+industrial automation. From warehouse floors
+to aerial surveillance, Autonomous navigation
+is transforming how machines move, adapt,
+and operate in dynamic environments.
+Key platforms include Autonomous Mobile
+Robots (AMRs), drones, and Automated
+Guided Vehicles (AGVs), each leveraging AI for
+path planning, obstacle avoidance, and realtime localization. These systems are
+increasingly
+deployed
+across
+logistics,
+manufacturing, and service sectors, where
+intelligent navigation enables flexible routing
+and operational efficiency.
+Predictive maintenance
+Artificial intelligence is reshaping industrial
+operations through predictive maintenance
+systems that detect errors before they occur. By
+leveraging real-time diagnostics and anomaly
+detection, companies are increasingly able to
+forecast equipment failures and schedule
+maintenance proactively.
+Core capabilities include predictive diagnostics,
+failure forecasting, and data-driven scheduling,
+allowing operators to minimize unplanned
+8
+
+downtime and extend asset lifespans. These
+systems analyze large amounts of sensor data
+and operational patterns to identify early signs
+of wear or malfunction.
+Simulation, Digital Twins, and Virtual tools
+Virtual environments are reshaping how
+robotics systems are built - cutting costs,
+improving
+reliability,
+and
+accelerating
+development cycles across sectors.
+Simulation platforms, digital twins, and virtual
+commissioning tools are therefore becoming
+integral to robotics engineering, offering
+manufacturers faster, more reliable pathways
+to automation. Technologies such as ABB’s
+RobotStudio and NVIDIA’s Isaac enable
+engineers to design, test, and deploy robotic
+systems in virtual environments before physical
+implementation.
+Digital twins replicate real-world systems in real
+time, allowing for precise modeling and
+predictive analysis. Simulation-based training
+and commissioning streamline planning and
+reduce the need for costly physical prototypes.
+These tools also enhance accuracy and
+shorten time-to-market for automation projects.
+
+Outlook 2030-2035
+Over the next 5–10 years, AI is expected to be
+widely adopted in various robotics applications.
+Because AI increases efficiency, reduces
+errors, and maintenance costs, companies
+often see a quicker return on investment (ROI)
+compared to non-AI systems. The following are
+some of the key areas in which AI is likely to
+have the greatest impact.
+Grasping, manipulation and assembly
+As automation expands into increasingly
+complex and variable environments, AI is
+advancing the capabilities of robots in terms of
+grasping, manipulation and assembly tasks.
+This technology allows machines to work with
+greater dexterity and adaptability. Smart
+material handling systems support tasks such
+as picking and packing, while adaptive control
+technologies
+enhance
+performance
+in
+operations such as welding and sanding. AI
+also allows robots to learn the properties of
+objects and refine their manipulation strategies
+using continuous feedback.
+Position Paper | January 2026
+
+AI IN ROBOTICS
+
+Enhanced human-robot interaction
+AI is driving advances in human-robot
+interaction (HRI), enabling machines to engage
+more naturally with people. As robots expand
+beyond industrial settings, cognitive interfaces
+are becoming essential in service applications
+across retail, healthcare, and hospitality. Key
+developments include voice and prompt-based
+interactions powered by large language models
+(LLMs), gesture recognition, and behavioral
+understanding. Collaborative robots, or cobots,
+are increasingly deployed in customer-facing
+roles, assisting with tasks ranging from
+reception and guidance to product handling and
+care services 3.
+
+to interpret visual inputs and execute tasks
+based on natural prompts. Co-pilot interfaces
+and prompt-driven programming tools further
+streamline task configuration, abstracting
+complex control systems into intuitive user
+experiences.
+
+Physical AI drives evolution of Humanoids
+Advances in Physical AI aim to speed up the
+development of embodied robotic systems, as
+industries seek machines capable of operating
+in complex, unpredictable environments. These
+systems combine physical dexterity with
+cognitive intelligence, enabling more versatile
+and autonomous performance. Key innovation
+projects are pioneering humanoid robots 4 that
+can navigate and interact in human-centric
+spaces, and embodied AI that integrates
+sensorimotor functions with decision-making
+models. Such technologies are also being
+developed for use in high-risk settings—from
+firefighting operations to nuclear facilities—
+where adaptability and resilience are critical.
+The shift towards general-purpose, mobile
+robots marks a new phase in automation, with
+Physical AI at the forefront of bridging the gap
+between artificial intelligence and real-world
+functionality
+
+Figure 4: Cloud-based software leverages Artificial
+Intelligence and generative algorithms to optimize
+the welding programming process. Picture Source:
+Roboteco.
+
+Outlook beyond 2035
+In the long term, experts predict AI to become
+deeply embedded in almost every aspect of
+robotics, resulting in transformative changes to
+a variety of applications. The following are
+some of the key areas in which AI is expected
+to have the most significant impact:
+General-purpose Robot AI
+
+A new wave of general-purpose robot AI, often
+referred to as 'RobotGPT', could signal a
+paradigm shift in automation, moving from
+Conversational AI for robot programming
+narrowly programmed machines to embodied
+Advances in natural language processing are
+artificial general intelligence (AGI). These
+transforming how industrial robots are
+robots could adapt to different tasks and
+programmed, with conversational AI tools
+environments. This evolution would be
+making automation more accessible to nontransforming the design, deployment and
+specialists. Technologies such as KUKA’s
+integration of robots across industries.
+“Agentic AI” leverage large language models
+Emerging systems could act as universal
+(LLMs) to enable voice and text-based
+assistants,
+spanning
+applications
+from
+interaction, reducing reliance on traditional
+domestic services to industrial operations.
+coding. Emerging frameworks like VisionVendor-trained AI models and natural
+Language-Action Models (VLAM) allow robots
+language-driven agents might enable robots to
+
+3
+
+More details in IFR Position Paper “Collaborative Robots
+- How Robots Work alongside Humans”
+
+Position Paper | January 2026
+
+4
+
+More details in IFR Position Paper "Humanoid Robots".
+
+9
+
+AI IN ROBOTICS
+
+generate executable code from simple
+prompts, thereby reducing programming
+complexity and expanding accessibility. The
+rise of embodied AGI suggests a future of
+platform
+convergence,
+where
+robotic
+intelligence becomes standardized across
+manufacturers
+and
+domains—unlocking
+scalable, flexible automation for a broad
+spectrum of use cases.
+Human-centric AI for emotion-awareness
+In the future, robots might be evolving beyond
+basic interaction, with behavior and intention
+recognition. By interpreting human gestures,
+facial expressions, and behavioral cues, AIenabled systems will become more responsive
+and collaborative. These technologies support
+adaptive engagement, allowing robots to tailor
+their actions based on real-time context.
+Applications will range from elder care
+companions to service robots that adjust tone,
+timing, and movement to match human needs.
+At the core of this shift is cognitive robotics—
+machines that can learn autonomously, refine
+behavior beyond initial programming, and
+improve over time. This approach aligns with
+broader trends in continual learning, on-device
+retraining, and scalable autonomy, positioning
+emotion-aware interaction as a foundational
+layer of next-generation AI robotics.
+
+Safety and security for AI in
+Robotics
+In the context of AI in robotics, a spectrum of
+safety and security concerns arise that demand
+robust governance and clear assignment of
+liability.
+Cybersecurity
+Cybersecurity experts warn that networked
+robotics systems are increasingly vulnerable to
+attacks that could result in data breaches,
+system hijacking, or physical harm. The rapid
+expansion of robotics systems into cloudconnected and AI-driven environments is
+exposing critical infrastructure to a growing
+array of cybersecurity threats.
+Experts cite a rise in hacking attempts targeting
+robot controllers and cloud platforms, enabling
+unauthorized access and potential system
+manipulation. Adversarial attacks—which trick
+AI models into making faulty decisions—have
+emerged as a major concern, particularly in
+safety-critical applications.
+The consequences of such breaches can be
+severe. In addition to operational disruption and
+financial loss, compromised robotics systems
+may pose physical risks to humans, especially
+in environments where machines interact
+directly with people. As robotics adoption
+accelerates, cybersecurity specialists urge
+manufacturers and operators to prioritize
+
+Figure 5: Humanoid robot "Codroid" designed to work in factory settings. Picture Source: Estun.
+10
+
+Position Paper | January 2026
+
+AI IN ROBOTICS
+
+system integrity and resilience. The attack
+surface is expanding and without proactive
+defenses, the risks will grow.
+Data Privacy & Protection
+As robots become more integrated into
+workplaces, concerns are mounting over the
+sensitive data they collect — including video,
+audio, and sensor streams.
+Many robotic systems rely on cloud-based
+services for tasks such as object recognition or
+natural language processing via large language
+models (LLMs). But this reliance introduces
+risks such as potential eavesdropping,
+unauthorized surveillance, and inadvertent data
+duplication. These vulnerabilities pose not only
+technical challenges but also significant legal
+liabilities,
+particularly
+when
+personal,
+operational, or proprietary data is involved.
+In response, developers and regulators are
+increasingly advocating for local or on-device
+data processing. By minimizing data
+transmission and keeping sensitive information
+within the robot’s hardware, companies aim to
+bolster privacy protections and reduce
+exposure to breaches. The shift reflects a
+broader reckoning within the robotics industry:
+as machines become more perceptive,
+
+safeguarding the data they gather is no longer
+optional — it’s imperative.
+Transparency and accountability – AI black
+boxes
+As AI systems become more deeply embedded
+in robotics and automation, experts are
+sounding the alarm over the lack of
+transparency in decision-making processes.
+Deep learning models are often described as
+'black boxes' and can produce results that are
+difficult or impossible to explain, even to their
+own developers. Hallucinations, in particular,
+can pose a significant risk when AI is entrusted
+with control over physical systems or provides
+operators with misleading information. When a
+robot makes a harmful decision, it is also not
+always clear who is accountable. The legal and
+ethical ambiguity surrounding liability has
+prompted calls for clear frameworks to govern
+AI deployment.
+AI Model Integrity and Vulnerabilities
+As robotics systems increasingly rely on AI
+decision-making, researchers are warning that
+flaws or manipulation in underlying models
+could lead to unpredictable and potentially
+hazardous behavior.
+
+Figure 6: Safety of AI-based robot systems is particularly important when used in collaborative applications.
+One way of securing safety is isolating safety systems from AI functions. Picture Source: Universal Robots.
+Position Paper | January 2026
+
+11
+
+AI IN ROBOTICS
+
+Security experts say AI models are vulnerable
+to data poisoning, malicious training
+manipulation, and adversarial interference.
+These attacks can compromise system
+integrity, triggering erratic outputs in motion
+planning or control functions. Feeding
+corrupted data into a model can have serious
+consequences. In physical systems, that could
+mean unsafe actions or even harm. Foundation
+models, including large language models and
+computer vision systems, have also come
+under scrutiny for their susceptibility to targeted
+manipulation. Once compromised, these
+models may produce uncontrolled or
+misleading outputs, undermining trust in
+autonomous platforms. Industry leaders are
+calling for tighter controls over training data,
+model updates, and runtime behavior to ensure
+AI systems remain secure and predictable
+throughout deployment.
+Physical safety & Human interaction risks
+
+landmark General Data Protection Regulation
+(GDPR) with the recent launch of the EU AI Act.
+The GDPR continues to serve as a cornerstone
+of digital governance, mandating lawful,
+transparent, and secure handling of personal
+data. The new AI Act adds a layer of oversight,
+classifying AI applications by risk level and
+imposing strict requirements on high-risk
+systems, including AI systems intended to be
+used as a safety component of a robot. This
+goes hand in hand with the Cybersecurity Act,
+which sets out security certification and
+resilience standards for ICT products and
+services.
+The Implementation of the AI Act includes the
+creation of a centralized AI Office in Brussels,
+tasked with monitoring compliance and guiding
+standardization efforts. However, rollout has
+been slowed by technical complexity and
+divergent national approaches.
+
+As robots increasingly operate alongside
+humans in factories and service settings, safety
+concerns are prompting calls for improved
+safeguards. The risks range from minor injuries
+to serious harm, particularly in environments
+where close-contact collaboration is essential.
+Unlike traditional robots, robots using machine
+learning and autonomous decision-making
+don't always behave the same way twice. This
+means that workers may assume predictability
+that no longer exists, which may lead to unsafe
+moments.
+The
+AI-driven
+autonomy
+fundamentally changes the safety landscape,
+which makes testing, validation, and human
+oversight much more complex—but also more
+necessary. Robotic systems need to be
+designed and certified in line with ISO safety
+standards and clearly defined liability
+frameworks.
+
+Figure 7: European Union has implemented
+regulations to protect data security in AI systems.
+Picture Source: Pixabay.
+
+China has implemented a regulatory
+framework aimed at strengthening oversight of
+artificial intelligence, with a focus on data
+protection, cybersecurity, and responsible
+deployment.
+
+Governments around the world encourage AI
+innovation while enforcing data security
+baselines,
+ensuring
+safety,
+reliability,
+controllability, and fairness during its
+development. Here are some key measures
+that have been implemented:
+
+Key legislation includes the Data Security Law,
+Personal Information Protection Law, and
+Cybersecurity Data Management Regulations,
+alongside the “Interim Measures for Generative
+AI Services”. Together, these laws govern the
+full lifecycle of AI systems — from data
+collection and processing to cross-border
+transfers and corporate accountability.
+
+The European Union is ramping up regulatory
+scrutiny of artificial intelligence, building on its
+
+The framework is reinforced by the AI Security
+Governance Framework, released in 2024,
+
+AI regulations by Governments
+
+12
+
+Position Paper | January 2026
+
+AI IN ROBOTICS
+
+which outlines technical and ethical standards
+for AI development.
+China’s regulatory foundation builds on the
+Cybersecurity Law of 2017, positioning the
+country as a global leader in AI governance.
+However, implementation challenges remain,
+particularly in balancing innovation with
+compliance across diverse sectors.
+The United States still lacks a national law to
+regulate AI. This means that AI governance is
+dealt with by a patchwork of federal and state
+laws.
+States at the forefront of AI development such
+as California and Texas, are advancing their
+own legislative frameworks, creating uneven
+protections and compliance requirements
+across jurisdictions.
+
+deploying AI systems. The law also requires
+privacy impact evaluations for high-risk
+applications and places strict limits on the
+retention and misuse of personal data, with
+particular focus on generative AI tools.
+Texas has taken a different approach with the
+Responsible AI Governance Act (TRAIGA),
+signed into law in July 2025. The legislation
+emphasizes transparency and biometric data
+protection, requiring companies to provide
+explicit notices when collecting or selling
+sensitive information. It also includes strong
+consumer awareness provisions aimed at
+safeguarding individual rights.
+While state-level initiatives continue to evolve,
+the lack of a cohesive federal strategy has
+raised
+concerns
+about
+inconsistent
+enforcement and regulatory uncertainty.
+
+California’s AI Transparency Act mandates
+companies conduct risk assessments prior to
+
+Figure 8: Robot programming with a cell creation simulation software. Picture Source: FANUC
+
+Position Paper | January 2026
+
+13
+
+AI IN ROBOTICS
+
+APPENDIX
+References
+• Cover picture: Hangzhou Robotphoenix
+Industrial Robotics: Robotphoenix’s highspeed Delta robots, combined with a
+precise vision system, ensure accurate
+picking and placement of egg tarts of
+various sizes.
+
+• IFR Position Paper “Collaborative Robots
+- How Robots Work alongside Humans”,
+Dec. 2024.
+• IFR Position Paper "Next Generation
+Skills", Feb. 2024.
+• IFR Position Paper "Humanoid Robots",
+Jul. 2025.
+
+Contact
+
+Editorial
+
+Dr. Susanne Bieller
+General Secretary
+
+Carsten Heer
+Press Officer
+
+IFR International Federation of Robotics
+Secretariat
+Lyoner Str. 18,
+60528 Frankfurt, Germany
+
+IFR International Federation of Robotics
+econNEWSnetwork
+Rothenbaumchaussee 79
+20149 Hamburg, Germany
+
+Phone: +49 69 6603-1502
+E-Mail: secretariat@ifr.org
+
+Phone: +49 40 82244284
+E-Mail: press@ifr.org
+
+14
+
+Position Paper | January 2026
+
+

@@ -1,0 +1,803 @@
+published by
+International Federation of Robotics
+Frankfurt, Germany
+November 2024
+
+POSITION PAPER
+
+Collaborative Robots
+HOW ROBOTS WORK ALONGSIDE HUMANS
+
+COLLABORATIVE ROBOTS - HOW
+ROBOTS WORK ALONGSIDE HUMANS
+
+CONTENTS
+IN BRIEF .......................................................................................................... 3
+What is a Collaborative robot?.................................................................... 3
+Types of Cobots .......................................................................................... 3
+EXECUTIVE SUMMARY .................................................................................. 5
+DEEP DIVE....................................................................................................... 6
+Why Do Companies Use Cobots? .............................................................. 6
+Tradeoffs and limitations of cobots ............................................................. 7
+Safety .......................................................................................................... 6
+Alternatives to cobots ................................................................................. 7
+Main customer applications ........................................................................ 7
+Main customer industries ............................................................................ 9
+Cobot market .............................................................................................. 9
+Future trends and technological drivers ................................................... 11
+APPENDIX ..................................................................................................... 12
+Online-Links .............................................................................................. 12
+Case studies ............................................................................................. 12
+Contact ..................................................................................................... 13
+
+2
+
+Position Paper | November 2024
+
+COLLABORATIVE ROBOTS - HOW
+ROBOTS WORK ALONGSIDE HUMANS
+
+IN BRIEF
+What is a Collaborative robot?
+Intro
+Cobots or collaborative industrial robots are
+robots with power and force limiting functions
+designed to perform tasks in collaboration with
+workers in industrial sectors. Collaborative
+applications
+contrast
+with
+traditional
+industrial robot applications in which robots
+are isolated from human contact behind
+fences or other protective barriers.
+
+guidelines for the inherent safe design,
+protective measures and information for use of
+industrial robots.
+Group two covers robots designed for
+collaborative use that do not satisfy the
+requirements of ISO 10218-1. These robots
+follow different safety standards, for example
+national or in-house standards.
+
+Definition
+The International Organization for Standards
+(ISO) does not provide an individual definition
+for collaborative robots but only for
+collaborative operations. Safety requirements
+for such operations are described in ISO
+10218-1 and ISO 10218-2, with additional
+guidance for collaborative robot applications
+provided in ISO TS 15066.
+
+Cobots are robots designed to perform tasks in
+collaboration with workers in industrial sectors.
+Picture source: Universal Robots.
+
+Both robots designed for collaborative use and
+traditional industrial robots equipped with external
+safety features can be employed in collaborative
+applications. Picture source: IFR.
+
+Service robots for domestic use (e.g. floor
+cleaning robots) or professional use (e.g. robots
+built for transportation of cargo) or mobile
+robots (AGV´s or AMR´s) are not included in the
+common understanding of a cobot.
+
+Types of Cobots
+The International Federation of Robotics
+considers two types of robots designed for
+collaborative use:
+Group one covers robots designed for
+collaborative use that comply with the
+International Organization for Standards norm
+ISO 10218-1. This specifies requirements and
+
+Position Paper | November 2024
+
+While most service robots are designed to be used
+in collaborative mode, the term “cobots” typically
+refers to collaborative industrial robots. Picture
+source: IFR.
+
+3
+
+COLLABORATIVE ROBOTS - HOW
+ROBOTS WORK ALONGSIDE HUMANS
+
+The IFR classifies 4 levels of cooperation with industrial robots (circles mark the respective workspaces of human
+and robot application). Picture source: IFR.
+
+4 Levels of collaboration
+The IFR classifies four levels of collaboration
+between industrial robots and human workers:
+1. Coexistence: Human and robot work
+alongside each other without a fence,
+but with no shared workspace.
+2. Sequential Collaboration: Human and
+robot are active in shared workspace,
+but their motions are sequential; they
+do not work on a part at the same time.
+3. Cooperation: Robot and human work
+on the same part at the same time, with
+both in motion.
+4. Responsive Collaboration: The robot
+responds in real-time to movement of
+the human worker.
+
+4
+
+Today, IFR members find that a substantial
+share of cobots is still not used for humanrobot-collaboration. Most common cobot
+applications are shared workspace applications
+where robot and employee work alongside
+each other, completing tasks independently or
+sequentially (Co-existence or sequential). They
+perform jobs that are either tedious or
+unergonomic – from lifting heavy parts to
+performing repetitive tasks such as tightening
+screws.
+Experts predict in 5 years’ time a step towards
+true co-operation: Robot and employee work at
+the same time together – both in motion will be
+commonplace.
+Examples of applications in which the robot
+responds in real-time to the motion of a worker
+are likely to appear on a larger scale in 10
+years’ time. This level is the most technically
+challenging.
+
+Position Paper | November 2024
+
+COLLABORATIVE ROBOTS - HOW
+ROBOTS WORK ALONGSIDE HUMANS
+
+EXECUTIVE SUMMARY
+Quick entry into automation
+Cobots offer a quick entry into automation.
+They are easy to program; some are
+programmable by hand guiding – called “leadthough teach” – or through tablet interfaces.
+Cobots most often require no additional safety
+measures to implement on the factory floor.
+This allows fenceless operation directly
+integrated into existing production areas. They
+can adapt flexibly by using Plug & Play
+technologies for example. This is especially
+attractive for companies which do not have
+engineering experts, for companies with
+smaller production batches and in industries
+where production needs are constantly
+changing.
+Cobots vs. traditional industrial robots
+Cobots typically have some trade-offs
+compared to traditional industrial robots. This is
+due to their design and purpose to safely work
+alongside humans: Cobots are currently not
+applicable e.g. for processes that require high
+payloads and high speeds. Their lightweight
+design supports easy relocation and simplified
+integration into mobile robot platforms. Cobots
+are used in many setups where a direct humanrobot interaction is not required. Traditional
+industrial robots can be an alternative in those
+cases. However, cobots have additional safety
+functions and capabilities that are useful for
+many applications.
+In cases where human intervention is needed,
+industrial robots that are equipped with external
+safety measures can provide good solutions
+without compromising velocity and payload.
+The safety measures include e.g. laser
+scanners, locking safety gates or safety mats.
+Main customer industries for cobots
+Manufacturing industries have been early
+adopters of cobot technology. This includes
+automotive, electronics, aerospace, consumer
+goods,
+pharmaceuticals,
+logistics
+and
+warehousing. Due to a cobot’s ease of use, we
+typically see industries that require low volume
+high mix production. This can include welding,
+
+Position Paper | November 2024
+
+machine tending, bin picking and end of line
+palletizing.
+
+Cobots can work side-by-side with humans in many
+applications, e.g. closing a CNC machine. Picture
+Source: OMRON.
+
+Trends driving cobot development
+The shortage of skilled workers will drive the
+development of automated solutions and will reestablish manufacturing infrastructure closer to
+the consumers. New applications are
+developed for cobots, continuously expanding
+their potential fields of use – from simple
+handling, through welding, to painting,
+dispensing and assembly.
+Cobot manufacturers are developing machine
+learning systems so that cobots can “learn”.
+This modular technology and learning
+approach leads to opening further doors to
+expand what a cobot can do while unattended.
+In future, new sensors, vision technologies and
+artificial intelligence (AI) will allow robots to
+respond in real-time to changes in their
+environment and thus work safely – and more
+responsively - alongside human workers.
+Cobot market
+Cobots accounted for 10.5% of the total
+541,302 industrial robots installed in 2022.
+IFR’s statistics show: collaborative robots will
+complement – not replace – investments in
+traditional industrial robots which operate at
+much faster speeds and will therefore remain
+important for improving productivity in response
+to tight product margins.
+
+5
+
+COLLABORATIVE ROBOTS - HOW
+ROBOTS WORK ALONGSIDE HUMANS
+
+DEEP DIVE
+Why Do Companies Use Cobots?
+Like industrial robots in general cobots can help
+improve productivity, product quality and
+consistency by executing tasks with a high level
+of precision and accuracy. They are less prone
+to errors or variations compared to human
+workers, leading to fewer defects and higher
+customer satisfaction.
+Cobots can be used to automate parts of a
+production line with minimal changes to the rest
+of the line. The easy-to-program technology
+can encourage first time users to get started
+with robotic automation.
+For some companies, collaborative robots
+provide an economically-viable entry-point to
+
+robotic automation, particularly with “easy to
+program” cobots. Companies that have not yet
+automated production processes may use a
+cobot as a low barrier starting point.
+Cobots can work alongside human workers
+augmenting their capabilities. They enable
+individuals to collaborate on complex tasks that
+are difficult to fully automate. Cobots help to
+handle repetitive tasks or heavy lifting, for
+example, allowing human workers to focus on
+more complex or creative aspects of their jobs.
+The capability of flexible manufacturing is
+greatly enhanced by Cobots. They allow for
+movable workstations that can be deployed
+when it's needed and moved elsewhere quickly.
+
+CASE STUDY
+
+Using welding cobots to ramp up production of sky loungers
+Stöckl Maschinen und Gerätebau in Germany
+needed to fulfill a large-scale order for pivot mounts
+used in Holztec-Leitner’s relaxation loungers,
+prompting the company to automate its welding
+process. They adopted Yaskawa's cobot welding
+cell, which combines a collaborative robot with a
+simple interface for professional welding functions.
+This cobot was chosen for its compact size, ease of
+use, and ability to work without a safety fence,
+facilitating safe, efficient, and flexible welding
+operations. The application involved sequential
+cooperation, where the robot operates in industrial
+mode as soon as the safety curtains are closed, but
+can be hand-guided for programming and parts can
+be fed manually by the worker.
+
+Picture Source: Yaskawa
+https://ifr.org/case-studies/welding-cobot-in-use-at-stoecklmaschinen-und-geraetebau
+
+Adequate safety precautions need to be considered
+when required by the application itself, e.g. in
+welding. Picture Source: Universal Robots.
+
+Safety
+Like any other piece of industrial machinery,
+collaborative robot applications must be safe.
+Compliance with ISO 10218-2 for collaborative
+applications is required.
+6
+
+Position Paper | November 2024
+
+COLLABORATIVE ROBOTS - HOW
+ROBOTS WORK ALONGSIDE HUMANS
+
+However, a safe cobot does not guarantee a
+safe collaborative application in practice. An
+application in which a cobot wields a sharp tool
+is unsafe no matter how slowly the cobot
+operates. A risk assessment of the intended
+application by the user is obligatory to comply
+with ISO 10218-2 and workplace health and
+safety requirements. The risk assessment
+covers the entire application, including the
+robot, end-effector, tools, workpieces, other
+machines plus equipment and components in
+the workplace.
+
+Tradeoffs and limitations of cobots
+Cobots and traditional industrial robots each
+have their own advantages.
+Companies often opt for cobots to combine
+human labor with automation. This approach
+can leverage the strengths of both humans and
+machines, allowing for greater flexibility while
+still improving efficiency and productivity.
+While cobots can achieve a high level of
+accuracy and repeatability, they may not be as
+
+precise as traditional industrial robots,
+especially for tasks that require extremely tight
+tolerances.
+
+Alternatives to cobots
+While traditional industrial robots and cobots
+serve different purposes, they can sometimes
+be alternatives depending on the specific
+application. For tasks with high production
+volumes and minimal need for human
+interaction, traditional industrial robots are an
+alternative to consider.
+There exist several options to outfit industrial
+robots with safety devices when processes
+require human intervention. These include
+dedicated sensors using skin like haptic
+sensors on traditional robots, force feedback
+control for manipulators as well as laser or
+radar scanners, emergency stop buttons, and
+physical barriers. In each case, the robot may
+perform normal highspeed operation until the
+safety area is breached by a human.
+
+CASE STUDY
+
+Robots for assembly at container refrigeration factory
+Carrier Transicold faced a challenge at their
+Singapore factory where human intervention was
+required in limited space, making traditional safety
+fences impractical.
+They installed the T-Skin on a FANUC robot. This
+robot solution could work alongside human workers
+in confined spaces without extensive fencing, still
+able to handle the heavy refrigerator doors.
+The deployment was implemented in half a day with
+minimized disruption of the operations, resulting in
+over 8,000 annualized hours of productivity gain.
+Automation initiatives led to a 3% increase in
+manufacturing efficiency, improved inventory
+tracking, and enhanced quality control.
+
+Robot mounting refrigerator doors. Picture Source:
+Touché Solutions
+https://ifr.org/case-studies/carrier-transicold-begins-usingrobots-at-global-container-refrigeration-factory
+
+Position Paper | November 2024
+
+7
+
+COLLABORATIVE ROBOTS - HOW
+ROBOTS WORK ALONGSIDE HUMANS
+
+CASE STUDY
+
+Reducing footprint with precise and cost-effective collaborative solution
+The solution was to implement two collaborative
+palletizing stations using Fanuc cobots equipped
+with OnRobot grippers, chosen for their efficiency,
+compact footprint, and ease of integration. Cobots
+were ideal due to their ability to work safely alongside
+human workers without requiring large, fenced-off
+areas, thereby maximizing space utilization.
+This setup allowed sequential collaboration, where
+cobots and humans perform tasks in succession
+within the same workspace, leading to significant
+operational improvements and a quick return on
+investment of less than 1.5 years.
+
+Picture Source: OnRobot
+Cleaning products manufacturer Sano aimed to optimize
+their palletizing operations, traditionally done manually,
+but faced issues like labor shortages and space
+constraints.
+
+https://ifr.org/case-studies/reducing-footprint-withinnovative-precise-and-cost-effective-collaborativesolution
+
+CASE STUDY
+
+Leak detection for refrigerator production line
+Household appliances manufacturer Electrolux
+aimed to enhance productivity and quality control
+and reduce repetitive manual tasks by automating
+the manual testing of gas leaks and electrical
+systems in their refrigerator production line in Brazil.
+ABB provided YuMi and GoFa cobots, resulting in a
+68% productivity boost and 100% reliability in
+testing. Cobots were chosen for their precision,
+safety, and ease of programming, allowing operators
+to manage and deploy them independently. This
+application is an example for coexistence without a
+shared workspace, where the operator is around, but
+not involved in the process.
+Picture Source: ABB
+https://ifr.org/case-studies/abbs-collaborative-robots-boostproductivity-by-68-on-electroluxs-refrigerator-production-line
+
+CASE STUDY
+
+Quality assurance for coffee grinder
+Gronbach, high-end supplier of consumer goods,
+aimed to ensure the durability and precision of their
+new coffee grinder through rigorous quality control
+tests. They used KUKA’s LBR iisy cobot conducting
+55,000 grinding and weighing cycles to simulate ten
+years of usage. The cobot was chosen for its
+precision, repeatability, and ease of programming
+and for its ability to operate safely alongside humans
+without needing a large footprint, providing a costeffective and reliable solution for quality control. This
+application exemplifies coexistence without a shared
+workspace, where the cobot performs tasks
+independently within the same environment as
+human workers.
+
+8
+
+Picture Source: KUKA
+https://ifr.org/case-studies/lbr-iisy-cobot-in-quality-assurance
+
+Position Paper | November 2024
+
+COLLABORATIVE ROBOTS - HOW
+ROBOTS WORK ALONGSIDE HUMANS
+
+Main customer applications
+Cobots are commonly used for pick-and-place
+operations, where they can efficiently move
+objects from one location to another with
+accuracy and speed.
+They are also utilized in packaging processes
+to automate tasks including product packaging,
+case packing, labeling, and palletizing. They
+can handle a variety of packaging materials and
+shapes, making them versatile solutions for
+packaging operations.
+Moreover, cobots are deployed for assembly
+processes and machine tending tasks, where
+they assist in loading and unloading parts from
+CNC machines, injection molding machines, or
+other automated equipment.
+Cobots are used for quality inspection and
+testing tasks, where they can perform visual
+inspection, dimensional measurement, and
+defect detection with high accuracy and
+repeatability.
+A recent market development is the increase of
+cobot welding applications, driven by a
+shortage of skilled welders.
+More intelligent and efficient cobots are helping
+address demands for sustainability, through
+smaller operational footprints, and are quickly
+adapting to a high mix/low volume product
+portfolio. This now also includes cobots for
+painting and dispensing (glueing).
+
+Palletizing cobot. Picture Source: Yaskawa.
+
+Main customer industries
+Collaborative robots are used across a variety
+of industries: The manufacturing industry,
+notably in automotive and electronics, heavily
+relies on cobots for welding, precise assembly
+tasks and quality control. Logistics and
+warehousing benefit from the growth of ecommerce and the increasing demand for
+efficient logistics operations. Cobots are being
+deployed for tasks like order fulfillment,
+inventory management, palletizing, and sorting.
+The food and beverage industry is adopting
+cobots to improve efficiency and hygiene.
+Cobots with food-grade materials and designs
+are specifically tailored to meet the stringent
+requirements of this industry. Pharmaceutical
+manufacturers are using cobots for tasks such
+as batch processing, packaging, and handling
+of sensitive materials.
+
+CASE STUDY
+
+Collaborative assembly application for lighting solutions
+Lighting solutions provider Fagerhult Belysning
+sought to improve productivity and ergonomics in
+their assembly processes. They integrated three
+cobots from Yaskawa to automate tasks such as
+plug/conduit entry assembly, panel fastening, screw
+driving units, and terminal block placement. The
+cobots were chosen for their ability to operate in both
+full-speed industrial mode and a safe collaborative
+mode using safety scanners, allowing them to work
+closely with human operators without the need for
+fences. This application led to a production of over
+240 units daily, reduced repetitive manual tasks, and
+retained in-house programming expertise for future
+automation projects.
+
+Picture Source: Yaskawa
+https://ifr.org/case-studies/collaborative-assembly-applicationwith-hc10
+
+Position Paper | November 2024
+
+9
+
+COLLABORATIVE ROBOTS - HOW
+ROBOTS WORK ALONGSIDE HUMANS
+
+CASE STUDY
+
+Cobots in the bakery
+Robot manufacturer FANUC, baking oven
+manufacturer WIESHEU and retail specialist Wanzl
+have jointly developed the automatic system. The
+robot is designed to relieve supermarket and
+discount store employees from repetitive tasks,
+introduce higher levels of reliability into the baking
+process and reduce food waste.
+The system involves a robot performing important
+work steps, such as loading the baking tray,
+inserting and removing the tray from the oven, and
+stocking the displays.
+Introducing robots into the bakery environment
+benefits employees in many ways, including through
+more attractive working hours. In the case of
+“Bakisto”, the cobot starts baking on its own early in
+the morning, allowing employees to sleep longer.
+
+Picture Source: Fanuc.
+https://go4robotics.com/robots-in-the-bakery/
+
+CASE STUDY
+
+Cobots revolutionizing the painting process
+Brandt A/S, a Danish powder coating specialist,
+sought to improve the accuracy and consistency of
+its manual painting processes. To address this, they
+integrated two UR10 cobots with Nordbo Robotics'
+Mimic technology, enabling the cobots to replicate
+human movements for precise touch-up tasks. The
+cobots now work alongside operators, improving
+product quality and freeing employees for more
+complex work. This solution allowed for seamless
+automation with minimal operator training,
+enhancing productivity. The collaboration level is
+sequential, with the cobots and workers alternating
+tasks in the shared workspace.
+
+Picture Source: Universal Robots
+https://ifr.org/case-studies/ur10-robots-revolutionize-thepainting-process
+
+CASE STUDY
+
+Cobots boost production on welding and on machine tending
+Metal fabricator Raymath A/S faced the challenge of
+automating a high-mix, low-volume manufacturing
+process, especially for complex metal inert gas
+(MIG) and tungsten inert gas welding (TIG) welding
+tasks. The company adopted UR10e cobots with
+THG Automation’s welding systems, enabling
+precise, flexible welding for varied part geometries.
+This solution allowed Raymath to improve
+productivity, with cobots handling twice the welding
+speed and achieving 4x productivity while requiring
+fewer operators. The cobots work in sequential
+collaboration with operators, alternating between
+welding tasks and manual intervention. The ease of
+programming and flexibility in handling diverse parts
+justified the use of cobots for this high-precision,
+custom welding process.
+
+Picture Source: Universal Robots
+https://ifr.org/case-studies/cobots-boost-production-onwelding-and-machine-tending
+
+10
+
+Position Paper | November 2024
+
+COLLABORATIVE ROBOTS - HOW
+ROBOTS WORK ALONGSIDE HUMANS
+
+Annual new installations of robots designed for collaborative used compared traditional industrial robots. Source:
+World Robotics 2024.
+
+Cobot market
+When the IFR collaborative robot statistics 1
+started in 2017, collaborative robots had a
+market share of just 2.8%. Since then, the
+available product portfolio in the market has
+been continuously expanding. In 2022 the
+number of newly deployed collaborative robots
+grew above average by 39% to 57,966 units,
+representing a market share of 10.5%.
+In 2023, there has been a contraction of the
+cobot market - for the first time since the start
+of IFR’s cobot statistics. The number of newly
+deployed cobots declined by 2% to 57,040
+units, but still keeping its share of 10.5% of the
+total industrial robot market.
+
+vendor-neutral first orientation help
+companies new to robotic automation.
+
+for
+
+Future trends and technological drivers
+Digital technologies such as IoT and Cloud
+computing play a crucial role in enabling and
+enhancing the capabilities of cobots:
+Cobots are increasingly equipped with
+advanced sensing technologies such as 3D
+vision systems, depth cameras, and lidar
+sensors. These sensors enable cobots to
+perceive and understand their environment,
+allowing them to interact with objects and
+humans more intelligently and safely.
+
+The share of companies that use robots is still
+rather small, especially among SMEs. Cobots
+offer solutions for this customer segment where
+a traditional industrial robot might be oversized
+for their needs. Many cobot applications have
+lower requirements in terms of robot
+programming and training, precision, payload,
+and service life. This has the potential for lower
+costs of ownership.
+Additional effort is needed to spread knowledge
+Easy to program technology. Picture Source:
+- especially among SMEs - to reap the benefits
+Onrobot.
+of robotic automation. The IFR’s new campaign
+Go4Robotics (https://go4robotics.com/) offers
+
+1
+
+IFR´s Statistical Department has narrowed the
+definition of a oobot and offers the following
+distinction from traditional industrial robots: A
+
+Position Paper | November 2024
+
+collaborative industrial robot is an industrial robot
+that is designed in compliance with ISO 10218-1
+and intended for collaborative use.
+11
+
+COLLABORATIVE ROBOTS - HOW
+ROBOTS WORK ALONGSIDE HUMANS
+
+The trend of using Artificial Intelligence and
+machine learning keeps growing. Cobot
+manufacturers are developing generative AIdriven interfaces which allow users to program
+robots more intuitively by using natural
+language instead of code. The impact of AI on
+the use of cobots is multifaceted. AI algorithms
+can enable cobots to learn from human
+demonstrations and adapt to new tasks.
+Another example is predictive AI analyzing
+robot performance data to identify the future
+state of equipment.
+
+New competitors are entering the market with a
+specific focus on collaborative robots. Mobile
+manipulators offer new use cases that could
+expand the demand for collaborative robots
+substantially. These mobile manipulators
+combine the mobility of robotic platforms
+(AMR´s) with the dexterity of manipulator arms.
+They are automating material handling tasks
+across industries.
+
+Mobile manipulator palletizing products. Picture
+Source: Neura Robotics.
+Cobot welding application. Picture Source:
+Yaskawa
+
+APPENDIX
+Online-Links
+• ISO/TS 15066:2016(en) - Robots and
+robotic devices — Collaborative robots
+https://www.iso.org/obp/ui/en/#iso:std:iso:
+ts:15066:ed-1:v1:en
+• ISO 10218-1:2011(en) - Robots and
+robotic devices — Safety requirements for
+industrial robots — Part 1: Robots
+https://www.iso.org/obp/ui/en/#iso:std:iso:
+10218:-1:ed-2:v1:en
+• ISO 10218-2:2011(en) - Robots and
+robotic devices — Safety requirements for
+industrial robots — Part 2: Robot systems
+and integration
+https://www.iso.org/obp/ui/en/#iso:std:iso:
+10218:-2:ed-1:v1:en
+• World Robotics 2023 – Industrial Robots
+https://worldrobotics.org/
+• IFR Position Paper „Next Generation
+Skills“, Nov. 2023
+12
+
+https://ifr.org/ifr-pressreleases/news/next-generation-skills
+• Go4Robotics campaign of IFR:
+https://go4robotics.com/
+
+Case studies
+Case studies showing the real-world
+application of robots designed for
+collaborative operation are regularly
+published on the IFR website:
+https://ifr.org/case-studies/case-studiescollaborative-robots/
+Case studies mentioned in this paper are
+listed below:
+• Using welding cobots to ramp up
+production of sky loungers
+https://ifr.org/case-studies/welding-cobotin-use-at-stoeckl-maschinen-undgeraetebau
+Position Paper | November 2024
+
+COLLABORATIVE ROBOTS - HOW
+ROBOTS WORK ALONGSIDE HUMANS
+
+• Robots for assembly at container
+refrigeration factory
+https://ifr.org/case-studies/carriertransicold-begins-using-robots-at-globalcontainer-refrigeration-factory
+• Reducing footprint with precise and
+cost-effective collaborative solution
+https://ifr.org/case-studies/reducingfootprint-with-innovative-precise-and-costeffective-collaborative-solution
+• Leak detection for refrigerator
+production line
+https://ifr.org/case-studies/abbscollaborative-robots-boost-productivity-by68-on-electroluxs-refrigerator-productionline
+• LBR iisy cobot in quality assurance
+https://ifr.org/case-studies/lbr-iisy-cobotin-quality-assurance
+• 35% cost reduction while maintaining
+work safety and high-quality output
+
+•
+
+•
+
+•
+
+•
+
+https://ifr.org/case-studies/35-costreduction-while-maintaining-work-safetyand-high-quality-output
+Collaborative assembly application for
+lighting solutions
+https://ifr.org/case-studies/collaborativeassembly-application-with-hc10
+Cobots in the bakery
+https://go4robotics.com/robots-in-thebakery/
+Cobots revolutionizing the painting
+process
+https://ifr.org/case-studies/ur10-robotsrevolutionize-the-painting-process
+Cobots boost production on welding
+and on machine tending
+https://ifr.org/case-studies/cobots-boostproduction-on-welding-and-machinetending
+
+Contact
+Dr. Susanne Bieller
+General Secretary
+IFR International Federation of Robotics
+Lyoner Str. 18
+60528 Frankfurt, Germany
+Phone: +49 69 6603-1502
+E-Mail: secretariat@ifr.org
+
+Position Paper | November 2024
+
+13
+
+

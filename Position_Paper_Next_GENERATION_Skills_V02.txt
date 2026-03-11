@@ -1,0 +1,713 @@
+published by
+International Federation of Robotics
+Frankfurt, Germany
+February 2024
+
+POSITION PAPER
+
+Next Generation Skills
+HOW ROBOTS CREATE NEW JOBS
+AND HELP TO FIGHT LABOR SHORTAGE
+
+NEXT GENERATION SKILLS
+
+CONTENTS
+
+In brief ............................................................................................................... 3
+Robot adoption and staff shortage ................................................................ 3
+Executive summary .......................................................................................... 4
+10 key findings............................................................................................... 5
+Deep dive.......................................................................................................... 6
+Robot adoption .............................................................................................. 6
+The skills gap............................................................................................... 11
+A call to action ................................................................................................ 13
+Appendix ......................................................................................................... 15
+Online-links .................................................................................................. 15
+Contact ........................................................................................................ 15
+
+2
+
+Position Paper | February 2024
+
+NEXT GENERATION SKILLS
+
+IN BRIEF
+ROBOT ADOPTION AND STAFF
+SHORTAGE
+Intro
+As the world continues to face mounting labor shortages, robotics has emerged to address this challenge. In fact, the current
+global robot installation base is at an alltime high of around 4 million units.
+Robots fill gaps
+According to a report by World Economic Forum, automation with robots can help fill labor
+gaps and stretch scarce talent. In addition, robots and automation contribute to a needed
+shift in the type of work that people do. They
+
+perform tasks that are difficult or dangerous for
+humans, such as heavy lifting or working in hazardous environments. However, it is important
+to note that the shift towards automation will require upskilling and reskilling of the workforce.
+Robots create jobs
+It is a common misconception that robots will
+replace humans; research shows that they will
+instead alter existing jobs for the better while
+also paving the way for newer, more interesting
+positions. However, action must be taken by
+stakeholders including governments, businesses, robot manufacturers, and educational
+institutes to ensure that the industry is properly
+equipped with resources to unlock next-generation skills.
+
+Industrial robots modernize factories work worldwide. Source: World Robotics 2023
+
+Position Paper | February 2024
+
+3
+
+NEXT GENERATION SKILLS
+
+4
+
+Position Paper | February 2024
+
+NEXT GENERATION SKILLS
+
+EXECUTIVE SUMMARY
+10 KEY FINDINGS
+01. Labor shortages are a growing concern
+worldwide: Baby boomers are entering retirement in substantial numbers and birth
+rates declining: This will lead to long-term
+workforce shortages. According to the
+WHO, the proportion of the world’s population over 60 will nearly double between
+2015 and 2050. On top of these demographic trends, there are employment shifts
+that contribute to concerns of growing labor
+shortages. Example for this was the economic trend called “Great Resignation” in
+which mainly American employees voluntarily resigned from their jobs en masse.
+Reasons for resigning included wage stagnation amid rising cost of living, limited opportunities for career advancement or longlasting job dissatisfaction.
+02.Manufacturers around the world are
+struggling to hire workers: In 2023, an average of 26% of all European manufacturing
+entrepreneurs saw their production limited
+by a shortage of workers. Eleven years before, talent shortage was only hampering
+7%, as EUROSTAT reports. In the US, a total of 616,000 manufacturing job openings
+could not be filled in August 2023. By 2030,
+a lack of skilled labor will lead to a projected
+2.1 million unfilled manufacturing jobs according to a study by Deloitte and the Manufacturing Institute (MI). Even Asian countries like Korea and Japan are struggling
+and have set up visa schemes to attract foreign employees; many of these visas are issued to employees in the manufacturing
+sector.
+03. Robotic adoption has been skyrocketing
+over the last decade. The total global installation base is now at 3.9 million units,
+and grew at a CAGR of 13% per year from
+2017 to 2022.
+04. Robots cannot and will not replace the
+human workforce. Rather, they will transform traditional manufacturing roles and job
+
+Position Paper | February 2024
+
+profiles over the next 10 years. IFR members predict that over 50% of manufacturing
+operators will be working with robots in this
+time. Robots will become “tools” for people,
+handling Dull, Dirty, Dangerous, and Difficult work so humans can move to more
+meaningful work. As robot interfaces become more intuitive, operators will also
+learn how to program them even if they
+have no prior programming knowledge.
+05. Robotic adoption is also creating new
+job profiles, including multidisciplinary
+roles as well as deep domain experts. Examples of the former include Smart Factory
+Managers responsible for overseeing the
+entire automation supply chain, and Robot
+Teaming Coordinators who must design
+processes that integrate robotics into operations and optimize how humans and robots
+work together. Examples of the latter are
+Robot Debuggers and AI Optimization Experts.
+06. A challenge of this magnitude requires action taken by multiple stakeholders. Governments must invest in the right infrastructure, policies, educational programs,
+and workforce development.
+07. Manufacturers, educational institutes,
+and governments must promote attractive career paths in manufacturing for
+young AND older workers, as well as develop lifelong learning programs for employees.
+08. Manufacturers must involve their workforce in developing the best automation
+strategies, plus ensure employees are reskilled and/or upskilled in new technologies.
+09. Robot manufacturers should continue focusing on simplifying programming interfaces to allow easier, faster adoption.
+10. Employees should actively seek out opportunities to upskill in advanced new
+technologies and become involved in the incorporation of robots in existing processes.
+
+5
+
+NEXT GENERATION SKILLS
+
+DEEP DIVE
+ROBOT ADOPTION
+Intro
+The past decade has witnessed an extraordinary surge in the adoption of robots: The
+latest World Robotics report by the International Federation of Robotics proved a record high in industrial robot installations with
+553,000 new units deployed around the
+world in 2022. Since 2017, the operational
+stock of industrial robots had been increasing by 13% on average each year. By region,
+65% of the global operational stock were installed in Asia, 19% in Europe and 13% in
+the Americas.
+Front runners and newcomers
+Certain industries are front runners for robotic
+technology. The automotive sector, for instance, has been at the forefront of deploying
+robots for decades. However, sectors like electronics, food and beverage production, and the
+wide range of service robotics have rapidly
+spiked. As robotic adoption continues to soar, it
+is vital to understand how they are drastically
+altering the manufacturing landscape, revolutionizing the way we perceive people and
+productivity.
+
+Declining costs for robot systems
+An additional driver of robotic adoption is a generation of new low cost robot systems that deliver application opportunities next to the traditional robots. Many robot manufacturers are
+now making it a priority to develop robots that
+are e.g. easy to program and install, even for
+first-time robot users. This reduces dependency on external robot programmers, making
+robots more user-friendly and affordable than
+before. In addition to this, lower prices for components have helped to reduce the cost of robot
+deployment overall.
+Technology Driving Robotic Automation
+Developments in the technologies used for grippers, vision, and mobility are making it possible
+to automate tasks that were not technically or
+financially feasible. For example, robotic grippers have evolved substantially in recent years,
+and many can now handle small, delicate, and
+irregular objects. Similarly, innovations in vision
+systems have opened the door to a world of
+new applications by lending robots the ability to
+“see”. With regard to mobility, many robot arms
+can be mounted on mobile robot bases. This allows them to intelligently move around factory
+floors, picking and placing objects, carrying
+parts, tending machines, and more.
+
+Figure 1: Programming and working with a collaborative robot. Image credit: Photoneo
+6
+
+Position Paper | February 2024
+
+NEXT GENERATION SKILLS
+
+Figure 2: Programming of a SCARA robot. Image credit: Staubli
+
+Collaborative Robots
+The collaborative robot, or cobot, has also contributed to robotic adoption. These types of robots are designed to share the same physical
+environment as people on the shop floor –
+something that is not possible with traditional industrial robots for safety reasons. Cobots, however, have advanced built-in measures that enable them to slow down or stop entirely if a person is too close. This makes it possible to install
+cobots without a cage or fence (following a
+standard risk assessment), and they are therefore space-saving. Cobots are also usually
+lightweight, so can be moved to new tasks as
+needed.
+Robots for Advanced & Flexible Automation
+
+grippers and vision systems which are quick to
+set up. This means robots can now be retasked quickly, ensuring that manufacturers are
+more agile, responsive, and competitive.
+Robots support better paid jobs
+What do these changes mean for manufacturing employees? With increased reliance on autonomous machines, the natural concern is the
+loss of jobs. However, our research has revealed that this is not the case. The essence is
+this: Robotic automation represents significant
+advantages for manufacturing workers. This includes a safer and more diverse work environment, opportunities to upskill and move into
+higher-paying positions, and the promise of
+working in a technologically advanced industry.
+
+Flexible manufacturing is a production approach that enables efficient adaptation and
+customization of manufacturing processes to
+accommodate changing demands, product variations, and market conditions. It’s all about being able to quickly and easily adjust product
+lines, equipment, and workflows to produce different products or quantities with little downtime
+and cost. Newer robots enable this with their
+ease of use, as well as some accessories like
+Position Paper | February 2024
+
+7
+
+NEXT GENERATION SKILLS
+
+HOW MANUFACTURING ROLES
+CHANGE
+Intro
+The increased adoption of robots and other
+automation methods have already begun
+impacting the skills needed across various
+manufacturing roles. These requirements
+will only continue to evolve, but in a way
+that offers more job satisfaction and skill
+development for employees at all levels.
+Top 4 profiles - outlook over ten years
+In the following section, we explore how the
+profiles for the four primary manufacturing roles
+of production operator, maintenance technician, engineer, and production manager are
+transitioning with the rise of robotics and automation, including how they will change over the
+next ten years.
+01. Production Operators
+Of the four role types, the IFR believes that the
+role of production workers will change the
+most over the next decade, with significant
+benefits for them. The extent of change will
+vary from company to company. Essentially,
+automation technologies reduce the time and
+effort production workers spend on Dull, Dirty,
+Dangerous, and Difficult work. This gives them
+the opportunity to learn new, interesting skills
+related to managing these technologies instead, e.g. robot re-programming or training AI
+algorithms.
+Human talent for complex tasks
+Complex tasks will largely be carried out manually by skilled production workers, while
+smaller but technically uncomplicated production runs will be handled by employees with robot assistants doing physically exhausting
+tasks. IFR members believe that more than
+50% of welders, machinists, and assemblers
+will be working with robots in ten years.
+Engineering background not needed
+In many large companies, production workers
+are already using robots as tools, e.g. lifting or
+holding parts in place so that the worker can
+perform a process. After all, robots are increasingly easy to program and re-task for simple applications – even if first-time robot handlers just
+go through a few hours of training. Some robots
+can even learn from humans by demonstration.
+8
+
+An engineering background is no longer a necessity for robot programming, although experts may still be needed for complex tasks.
+Plus, since robots are becoming more userfriendly, the IFR expects more small and midsized manufacturers to adopt robotic automation.
+Workers train artificial intelligence (AI)
+Workers will become increasingly involved in
+training artificial intelligence (AI) algorithms
+used for robotic applications such as pick-andplace. Workers demonstrate to the robot which
+parts need to be picked/placed, and then supervise the robot’s activity to ensure the AI algorithm has been trained correctly. This can also
+apply to robotic inspection systems, where the
+worker can train the robot to distinguish between products that pass or fail the required
+quality standards.
+02. Technicians
+An increasing number of machines are digitally
+connected and constantly transmitting data on
+their status. Analyzing this data enables manufacturers to detect useful information, such as
+when to schedule maintenance on machines.
+This digitization can also help identify the parts
+that need changing so they can be ordered in
+advance; previously this was only discoverable
+after technicians dismantled the machine.
+Technicians learn analytics skills
+Through digitization, technicians can also access information on demand to quickly solve
+problems. For example, by connecting machines including robots to the cloud, production
+managers and technicians can constantly monitor them through smartphone-like devices. If
+any error messages appear, technicians can
+access a database of solutions to troubleshoot
+the issue immediately. They can also access
+data to look for variances that may have caused
+the problem.
+Monitoring machines
+In addition to expanding their expertise with
+specific machines, technicians are therefore
+also increasingly acquiring broad information
+technology skills. This allows them to interpret
+digital data that represents physical machines,
+
+Position Paper | February 2024
+
+NEXT GENERATION SKILLS
+
+Figure 3: Using the teach pendant for programming, or touch up of previously made offline programs. Image
+credit: Yaskawa.
+
+and proactively monitor and assess that they
+are working correctly.
+03. Engineers
+Digitization is also impacting the role of engineers. A focus area is design and development.
+With computer-aided design and manufacturing
+systems, engineers can create new product
+models that automatically generate lists of the
+required parts. Using digital twins allows engineers to simulate the integration of new machines into existing production settings, and
+predict potential problems, such as the impact
+of vibrations on accuracy. Additionally, 3D printing lets manufacturers quickly produce prototypes for testing before committing to expensive
+production runs.
+Changes affecting engineers
+Over the next decade, engineers will turn to
+managing connected systems, rather than isolated machines. This will require expertise in
+electronics and software as well as digital technologies like IIoT or cloud-based systems on
+top of traditional mechanical engineering skills.
+This is already visible in relatively new roles like
+Mechatronic Engineer, Mechatronic Technician, Systems Engineer, and Technician.
+It also applies to existing roles. For example,
+while robot technicians program robots, they increasingly require additional skills in interpreting computer-aided design simulations, data
+analysis, edge computing, and more. Since engineers will be managing entire systems going
+forward, they require an understanding of the
+Position Paper | February 2024
+
+interfaces and communications protocols between the backend of order systems and machine controllers, as well as the Internet of
+Things (IoT).
+04. Production Managers
+In general, production managers today are increasingly asked to oversee a broader range of
+machines and processes than before. They analyze data to get an overview and identify potential bottlenecks or find untapped optimization potential. As manufacturers embark on automating the entire supply chain, production
+managers are also gaining broader technology
+skills in related systems, such as enterprise resource planning (ERP).
+Command center staff
+In time, we may see the emergence of production control rooms where managers monitor
+screens that display what is happening in the
+supply chain in real-time. This could include the
+flow of materials, production capacity, machine
+yield, alerts for any machine malfunctions, and
+the outflow of materials to warehouses for shipment. Command center staff can easily identify
+issues and alert the relevant production staff to
+resolve them.
+Future is multidisciplinary
+In general, we can observe that all four job profiles are gradually becoming multidisciplinary.
+As production lines are increasingly automated,
+manufacturing employees at all levels will need
+basic knowledge across a wide range of
+9
+
+NEXT GENERATION SKILLS
+
+technologies. These technologies will become
+increasingly intuitive to set up and use, but employees will spend more time applying technical
+knowledge than in the past.
+
+HOW THE FOUR MANUFACTURING ROLES WILL CHANGE OVER THE NEXT 10
+YEARS
+Production operators will:
+
+
+Work with robots – IFR members estimate 50% will be working
+with robots in 10 years’ time. Tasks include: Programing of simple applications: Monitoring robot performance: Working collaboratively with a robot ‘assistant’ or robotic tool,
+
+
+
+Have the opportunity to learn new skills,
+
+
+
+Work across a range of production lines or cells.
+
+Technicians will:
+
+
+Rely on data generated by machines, and analytic tools to assess when machines need maintenance,
+
+
+
+Need broad information technology skills to interpret digital
+representations of physical machines and search databases,
+
+
+
+Start to take a proactive role in process optimization, exploring
+how processes could be altered to function more efficiently and
+avoid typical bottlenecks.
+
+Engineers will:
+
+
+Increasingly manage connected systems rather than discrete
+machines,
+
+
+
+Need expertise in electronics and software as well as traditional skills in mechanical engineering,
+
+
+
+Require an understanding of the interfaces and communications protocols between back-end order systems and machine
+controllers, as well as Internet of Things communications protocols.
+
+Production managers will:
+
+10
+
+
+
+Oversee a broader range of machines and processes than in
+the past,
+
+
+
+Need broad technology skills in related systems such as enterprise resource planning (ERP),
+
+
+
+May in future work in production control rooms managing employees who monitor screens showing the flow of materials,
+production capacity, machine yield, alerts for machine malfunctions and output to warehouses for shipment. Will also perform
+complex optimization tasks across the entire production line.
+
+Position Paper | February 2024
+
+NEXT GENERATION SKILLS
+
+Figure 4: Robot training in Thailand. Image credit: ABB
+
+THE SKILLS GAP
+Intro
+As discussed above, automation leads to
+the creation of new roles. In fact, most manufacturers today are unable to find talent
+with the specialized skills required for the
+sector. Statistics show that the situation will
+only worsen. In the US alone, the manufacturing skills gap could result in 2.1 million
+unfilled jobs by 2030, according to a study
+by The Manufacturing Institute and Deloitte.
+Young people wanted
+It is also taking longer to hire manufacturing
+workers across skills levels. Ongoing skills
+training for the workforce is an important strategy to open up career opportunities. IFR members believe action should be taken to establish
+and promote attractive manufacturing careers
+especially to young people. This approach
+should support girls in particular to develop their
+abilities in STEM subjects and investigate options for a career in manufacturing.
+Asia’s leading manufacturing countries Japan
+and Korea have introduced foreign visa programs to combat the labor shortages they face.
+A significant proportion of these visas in both
+countries were issued to immigrant workers to
+fill vacancies in their manufacturing sectors.
+
+and 1964) retires, there will be an acute shortage of ‘classic’ manufacturing skills. Cedefop,
+the European Center for the Development of
+Vocational Training, predicts a shortage of 29
+million technicians and associated professionals, as well as almost ten million plant, machine
+operator, and assembler positions in Europe
+between 2016 and 2030.
+Manufacturers
+It is important for manufacturers to understand
+the central role of human employees, even in
+an automated shop floor. Manufacturers must
+include their workforce in developing the best
+automation strategies, especially since it is production workers who have the best insights on
+strengths and bottlenecks in production processes. In the US, for example, 53% of manufacturers are redesigning work around automation, and 40% are creating robot programming
+roles. Similarly, about 50% of German manufacturers believe robotics will be an important
+part of vocational training by 2025.
+Upskilling
+IFR believes upskilling is an integral factor.
+Manufacturers must take more active
+measures to train their current workforce in new
+technologies and promote automation as a path
+to more satisfying work. A recent survey found
+that only a third of global companies are looking
+
+Baby boomer retire
+However, it isn’t just new technology and automation skills that are in short supply. As the
+‘baby boomer’ generation (born between 1954
+Position Paper | February 2024
+
+11
+
+NEXT GENERATION SKILLS
+
+Figure 5: Technicians monitor robot progress at Creative Revolutions. Image credit Universal Robots.
+
+at reskilling existing employees, with the remaining preferring to simply hire new people to
+fill the skills gap. Yet, 70% of those organizations that invested in reskilling say that the business impact from this has been greater than or
+equal to the investment in them. One IFR member even found that upskilling the existing workforce led to a happier, healthier workplace culture. A better organizational culture is often also
+a contributor to competitive advantage.
+Easy to use robots
+Perhaps one the most important pieces of
+knowledge for employees to have is that automation is not intended to replace them. Instead,
+their roles are intended to shift into more interesting and fulfilling work. Since using automation technologies no longer requires a bachelor's degree, employees can actively seek out
+opportunities to upskill in these advanced new
+tools.
+Educational Institutes
+The first way for educational institutes to contribute to closing the skills gap is by developing
+vocational training centered around advanced
+technologies such as robotics. However, the
+IFR also recommends that educational institutes collaborate closely with manufacturers to
+identify the existing gaps in manufacturing education, and strategize the most effective curricula and programs to address these gaps. This
+12
+
+would ensure real, industry-relevant programs
+that actively tackle the skills gap.
+Parents & Young Individuals
+The manufacturing industry is often overlooked
+when people consider career paths, but the IFR
+urges parents and young people to actively explore and encourage opportunities in this sector. Technical degrees are no longer always a
+necessity, which means individuals can easily
+explore vocational education that can provide
+an entry point into skilled manufacturing positions. Advanced automation technologies like
+robotics also means the chance to have a career in STEM, and work in an industry at the
+forefront of technological innovation.
+Conclusion
+The International Federation of Robotics believes that governments must update their education policies, and that robot programming is
+now an essential skill all shop floor workers
+must possess. Robot manufacturers are the
+best possible partners to enable this transition.
+After all, they have the expertise needed to educate and guide the talent pool on how to work
+with intelligent automation systems. The IFR
+strongly recommends and invites public authorities to team up with these experts in order to
+jointly discuss and deliver the right education
+for the workplace of the future.
+Position Paper | February 2024
+
+NEXT GENERATION SKILLS
+
+A CALL TO ACTION
+WHAT STAKEHOLDERS CAN DO TO CLOSE THE SKILLS GAP
+Parents
+
+
+
+Encourage children - and in particular girls – to explore their abilities in
+STEM subjects and investigate options for a career in manufacturing
+
+Young people
+
+
+
+Take an interest in STEM subjects and investigate career options building
+off these subjects
+
+
+
+Look into vocational education supported by manufacturers that can provide an entry into skilled positions in manufacturing
+
+
+
+Promote the advantages of a manufacturing career at the forefront of technology development to young people through job trade fairs, PR and social
+media campaigns and other recruitment drives
+
+
+
+Collaborate with education institutes to adapt curricula to evolving demand
+for technical skills
+
+
+
+Promote employee development as a competitive differentiator
+
+
+
+Encourage employees to take advantage of lifelong training programs –
+and develop these programs internally, collaborating with education institutes
+
+
+
+Actively seek out opportunities to learn new technologies and skills and,
+where possible, develop skills across a range of technologies and expertise in the interfaces between them
+
+
+
+Investigate training and certification options from multiple sources including equipment manufacturers, education institutes and government programs
+
+
+
+Promote the advantages of a manufacturing career at the forefront of technology development to young people
+
+
+
+Build robotics programming into vocational training for relevant manufacturing job profiles
+
+
+
+Collaborate with manufacturers to adapt curricula to evolving demand for
+technical skills
+
+
+
+Ensure that mechanical and electronic engineering training programs include a focus on building ‘soft skills’, particularly critical thinking, analysis
+and problem solving
+
+
+
+Collaborate with government and manufacturers to develop lifelong training programs for manufacturing employees, particularly low-skilled workers
+
+
+
+Work with manufacturers and educational institutes to develop and provide access to lifelong training schemes for workers.
+
+
+
+Promote the benefits of automation for older, experienced workers
+
+
+
+Develop programs and incentives to ensure lifelong learning
+
+
+
+Provide incentives for manufacturers to collaborate with education institutes to develop training programs that incorporate cutting-edge technologies
+
+
+
+Incentivize and support skills training for low-skilled workers
+
+Manufacturers
+
+Manufacturing
+Employees
+
+Education Institutes
+
+Trade Unions
+
+Government
+
+Position Paper | February 2024
+
+13
+
+NEXT GENERATION SKILLS
+
+CALL TO ACTION
+
+Conclusion
+
+Fixing the skills gap
+
+Automation is altering the face of manufacturing,
+creating new opportunities for employees at all
+skills levels. Job profiles of the traditional roles of
+production operator, technician, engineer and production manager are changing rapidly. While new
+positions with deep domain expertise in specific
+technologies will be created, most manufacturing
+employees will become technology generalists,
+overseeing a range of technologies, machines and
+processes. They are supported in their work by
+data-driven analytic and decision-making tools
+spanning the whole supply chain.
+
+Fixing the skills gap will take a concerted, and
+collaborative effort on the part of policy makers,
+government, education institutes, manufacturers, and employees themselves. Lifelong learning is critical to ensure existing workers can
+continuously re- and up-skill to take advantage
+of new technologies. Manufacturers and education institutes have work to do to promote careers in manufacturing to young people as an
+opportunity to work at the forefront of technology.
+
+The future
+It’s an exciting future, for both new and existing
+workers, but a future whose potential will not be
+realized unless urgent action is taken to address
+an existing and future skills gap. As we have explored in this paper, it’s not just employees with
+new technical skills who are missing. The retirement of skilled baby boomer manufacturing workers will create massive holes in the resourcing of
+core manufacturing processes such as welding
+and machining.
+
+Figure 6: Training a pick and place robot. Image credit KUKA.
+14
+
+Position Paper | February 2024
+
+NEXT GENERATION SKILLS
+
+APPENDIX
+ONLINE-LINKS
+• OECD-Jobs Strategy
+https://www.oecd.org/employment/jobs-strategy/
+• Skills forecast: trends and challenges to 2030 (European Union)
+https://www.cedefop.europa.eu/en/publications/3077
+• National Association of Manufacturers (USA)
+https://nam.org/2-1-million-manufacturing-jobs-could-go-unfilled-by-2030-13743/
+• Industrie 4.0 – Qualification 2025 (VDMA, Sociology Department of the University of Hohenheim)
+https://www.vdma.org/documents/34570/15841114/Summary_Industrie+4.0_Qualification+2025.pdf/965f4b69-da64-84cf-ddd4-785f0836b934?t=1620636433025
+• Taking a skills-based approach to building the future workforce (McKinsey)
+taking-a-skills-based-approach-to-building-the-future-workforce-vf.pdf (mckinsey.com)
+• Go4Robotics – Robots are for everyone (IFR)
+https://go4robotics.com/
+• Position Papers (IFR)
+https://ifr.org/papers
+• World Health Organization (WHO)
+Ageing (who.int)
+• ToTalent
+Europe’s manufacturing industry is struggling: 1 in 4 entrepreneurs experience ‘hampered operations’ - ToTalent
+• US Chamber of Commerce
+Understanding America’s Labor Shortage: The Most Impacted Industries | U.S. Chamber of Commerce (uschamber.com)
+• The Manufacturing Institute
+2.1 Million Manufacturing Jobs Could Go Unfilled by 2030 - NAM
+
+CONTACT
+Dr. Susanne Bieller
+General Secretary
+IFR International Federation of Robotics
+Lyoner Str. 18,
+60528 Frankfurt, Germany
+Phone: +49 69 6603-15024
+E-Mail: secretariat@ifr.org
+
+Position Paper | February 2024
+
+15
+
+
